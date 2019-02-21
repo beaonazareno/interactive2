@@ -66,6 +66,10 @@ body {
 	transform: scale(0.8) translateX(40px);
 }
 
+.hover:hover .slideUpW {
+    transform: scale(0.8) translateY(-45px) rotate(180deg);
+}
+
 
 div.stageTitle{
 	width: 1300px;
@@ -1241,7 +1245,7 @@ div.LetterASentenceTooth{
 clip-path: polygon(50% 0%, 100% 30%, 100% 100%, 50% 70%, 0 100%, 0 30%);
 	position: absolute;
 	margin-left: 180px;
-	margin-top: 190px;
+	margin-top: 205px;
 	transform: scale(0.8); 
 	transition: transform 80ms ease-in-out;
 }
