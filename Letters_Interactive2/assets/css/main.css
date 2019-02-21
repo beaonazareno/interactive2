@@ -1,0 +1,1428 @@
+body {
+	background: #06162f;
+}
+
+.hover:hover .slideUp {
+	transform: scale(0.8) translateY(-30px);
+}
+
+.hover:hover .slideDown {
+	transform: scale(0.8) translateY(30px);
+}
+
+.hover:hover .slideLeft {
+	transform: scale(0.8) translateX(-30px);
+}
+
+.hover:hover .slideRight {
+	transform: scale(0.8) translateX(30px);
+}
+
+.hover:hover .slideRightG {
+	transform: scale(0.8) translateX(67px);
+}
+
+.hover:hover .slideRightT {
+	transform: scale(0.8) translateX(40px);
+}
+
+.hover:hover .slideRightB {
+	transform: scale(0.8) translateX(35px);
+}
+
+.hover:hover .slideDownD {
+	transform: scale(0.8) translateY(40px);
+}
+
+.hover:hover .slideRightE {
+	transform: scale(0.8) translateX(37px);
+}
+
+.hover:hover .slideDownI {
+	transform: scale(0.8) translateY(27px);
+}
+
+.hover:hover .slideDownM {
+	transform: scale(0.8) translateY(40px);
+}
+
+.hover:hover .slideRightP {
+	transform: scale(0.8) translateX(35px);
+}
+
+.hover:hover .slideUpS {
+	transform: scale(0.8) translateY(-19px);
+}
+
+.hover:hover .slideUpV {
+	transform: scale(0.8) translateY(-45px);
+}
+
+.hover:hover .slideUpY {
+	transform: scale(0.8) translateY(-20px);
+}
+
+.hover:hover .slideRightZ {
+	transform: scale(0.8) translateX(40px);
+}
+
+
+div.stageTitle{
+	width: 1300px;
+	height: 650px;
+	margin: 100px auto;
+	background: #06162f;
+	position: relative;
+}
+
+div.stageAlphabet{
+	width: 1300px;
+	height: 950px;
+	margin: 100px auto;
+	background: #06162f;
+	position: relative;
+}
+
+div.stageNumbersandPunctuations{
+	width: 1300px;
+	height: 650px;
+	margin: 100px auto;
+	background: #06162f;
+	position: relative;
+}
+
+div.stageTakeABite{
+	width: 1300px;
+	height: 650px;
+	margin: 100px auto;
+	background: #06162f;
+	position: relative;
+}
+
+div.LetterKTitle{
+	width: 150px;
+	height: 150px;
+	background-color: #12347b;
+-webkit-clip-path: polygon(50% 15%, 90% 0, 70% 50%, 90% 100%, 50% 85%, 15% 100%, 15% 0);
+clip-path: polygon(50% 15%, 90% 0, 70% 50%, 90% 100%, 50% 85%, 15% 100%, 15% 0);
+	position: absolute;
+	margin-left: 250px;
+	margin-top: 210px;
+	border-radius: 
+} 
+
+div.LetterATitle1 {
+	width: 130px;
+	height: 150px;
+	background-color: #12347b;
+	-webkit-clip-path: polygon(50% 0%, 100% 30%, 100% 100%, 50% 70%, 0 100%, 0 30%);
+clip-path: polygon(50% 0%, 100% 30%, 100% 100%, 50% 70%, 0 100%, 0 30%);
+	position: absolute;
+	margin-left: 420px;
+	margin-top: 210px;
+	
+	
+}
+
+div.LetterGTitle{
+	width: 150px;
+	height: 150px;
+	background-color: #12347b;
+	-webkit-clip-path: polygon(100% 0, 80% 20%, 80% 60%, 100% 39%, 100% 81%, 80% 100%, 40% 100%, 20% 80%, 20% 20%, 40% 0);
+clip-path: polygon(100% 0, 80% 20%, 80% 60%, 100% 39%, 100% 81%, 80% 100%, 40% 100%, 20% 80%, 20% 20%, 40% 0);
+	position: absolute;
+	margin-left: 565px;
+	margin-top: 210px;
+	border-radius: 
+} 
+
+div.LetterATitle2 {
+	width: 130px;
+	height: 150px;
+	background-color: #12347b;
+	-webkit-clip-path: polygon(50% 0%, 100% 30%, 100% 100%, 50% 70%, 0 100%, 0 30%);
+clip-path: polygon(50% 0%, 100% 30%, 100% 100%, 50% 70%, 0 100%, 0 30%);
+	position: absolute;
+	margin-left: 760px;
+	margin-top: 210px;
+	border-radius: 
+}
+
+div.LetterTTitle{
+	width: 150px;
+	height: 150px;
+	background-color: #12347b;
+-webkit-clip-path: polygon(90% 0, 70% 16%, 53% 100%, 30% 16%, 10% 0);
+clip-path: polygon(90% 0, 70% 16%, 53% 100%, 30% 16%, 10% 0);
+	position: absolute;
+	margin-left: 890px;
+	margin-top: 210px;
+	border-radius: 
+} 
+
+div.LetterA {
+	width: 130px;
+	height: 150px;
+	background-color: #12347b;
+	-webkit-clip-path: polygon(50% 0%, 100% 30%, 100% 100%, 50% 70%, 0 100%, 0 30%);
+clip-path: polygon(50% 0%, 100% 30%, 100% 100%, 50% 70%, 0 100%, 0 30%);
+	position: absolute;
+	margin-left: 50px;
+	border-radius: 
+}
+
+div.LetterB {
+	width: 130px;
+	height: 150px;
+	background-color: #12347b;
+	-webkit-clip-path: polygon(80% 0, 100% 21%, 80% 40%, 100% 70%, 81% 100%, 0 100%, 0 0);
+clip-path: polygon(80% 0, 100% 21%, 80% 40%, 100% 70%, 81% 100%, 0 100%, 0 0);
+	position: absolute;
+	margin-left: 250px;
+	border-radius: 
+}
+
+div.LetterC{
+	width: 150px;
+	height: 150px;
+	background-color: #12347b;
+	-webkit-clip-path: polygon(100% 0, 70% 50%, 100% 100%, 30% 100%, 0 50%, 30% 0);
+clip-path: polygon(100% 0, 70% 50%, 100% 100%, 30% 100%, 0 50%, 30% 0);
+	position: absolute;
+	margin-left: 450px;
+	border-radius: 
+} 
+
+div.LetterD{
+	width: 150px;
+	height: 150px;
+	background-color: #12347b;
+	-webkit-clip-path: polygon(65% 0, 100% 50%, 65% 100%, 0 100%, 0 0);
+clip-path: polygon(65% 0, 100% 50%, 65% 100%, 0 100%, 0 0);
+	position: absolute;
+	margin-left: 650px;
+	border-radius: 
+} 
+
+div.LetterE{
+	width: 150px;
+	height: 150px;
+	background-color: #12347b;
+	-webkit-clip-path: polygon(100% 0, 80% 30%, 100% 50%, 80% 70%, 100% 100%, 15% 100%, 15% 0);
+clip-path: polygon(100% 0, 80% 30%, 100% 50%, 80% 70%, 100% 100%, 15% 100%, 15% 0);
+	position: absolute;
+	margin-left: 830px;
+	border-radius: 
+} 
+
+div.LetterF{
+	width: 150px;
+	height: 150px;
+	background-color: #12347b;
+	-webkit-clip-path: polygon(100% 0, 80% 30%, 100% 50%, 80% 70%, 80% 100%, 15% 100%, 15% 0);
+clip-path: polygon(100% 0, 80% 30%, 100% 50%, 80% 70%, 80% 100%, 15% 100%, 15% 0);
+	position: absolute;
+	margin-left: 1030px;
+	border-radius: 
+} 
+
+div.LetterG{
+	width: 150px;
+	height: 150px;
+	background-color: #12347b;
+	-webkit-clip-path: polygon(100% 0, 80% 20%, 80% 60%, 100% 39%, 100% 81%, 80% 100%, 40% 100%, 20% 80%, 20% 20%, 40% 0);
+clip-path: polygon(100% 0, 80% 20%, 80% 60%, 100% 39%, 100% 81%, 80% 100%, 40% 100%, 20% 80%, 20% 20%, 40% 0);
+	position: absolute;
+	margin-left: 30px;
+	margin-top: 210px;
+	border-radius: 
+} 
+
+div.LetterH{
+	width: 150px;
+	height: 150px;
+	background-color: #12347b;
+	-webkit-clip-path: polygon(50% 25%, 85% 0, 86% 100%, 50% 75%, 15% 100%, 15% 0);
+clip-path: polygon(50% 25%, 85% 0, 86% 100%, 50% 75%, 15% 100%, 15% 0);
+	position: absolute;
+	margin-left: 228px;
+	margin-top: 210px;
+	border-radius: 
+}  
+
+div.LetterI{
+	width: 150px;
+	height: 150px;
+	background-color: #12347b;
+	-webkit-clip-path: polygon(50% 0, 70% 15%, 70% 85%, 50% 100%, 30% 85%, 30% 15%);
+clip-path: polygon(50% 0, 70% 15%, 70% 85%, 50% 100%, 30% 85%, 30% 15%);
+	position: absolute;
+	margin-left: 450px;
+	margin-top: 210px;
+	border-radius: 
+}
+
+div.LetterJ{
+	width: 150px;
+	height: 150px;
+	background-color: #12347b;
+	-webkit-clip-path: polygon(80% 0, 100% 0, 100% 83%, 85% 100%, 58% 100%, 40% 85%, 40% 85%, 40% 60%, 65% 80%, 65% 15%);
+clip-path: polygon(80% 0, 100% 0, 100% 83%, 85% 100%, 58% 100%, 40% 85%, 40% 85%, 40% 60%, 65% 80%, 65% 15%);
+	position: absolute;
+	margin-left: 600px;
+	margin-top: 210px;
+	border-radius: 
+} 
+
+div.LetterK{
+	width: 150px;
+	height: 150px;
+	background-color: #12347b;
+-webkit-clip-path: polygon(50% 15%, 90% 0, 70% 50%, 90% 100%, 50% 85%, 15% 100%, 15% 0);
+clip-path: polygon(50% 15%, 90% 0, 70% 50%, 90% 100%, 50% 85%, 15% 100%, 15% 0);
+	position: absolute;
+	margin-left: 840px;
+	margin-top: 210px;
+	border-radius: 
+} 
+
+div.LetterL{
+	width: 150px;
+	height: 150px;
+	background-color: #12347b;
+-webkit-clip-path: polygon(40% 25%, 40% 85%, 64% 100%, 15% 100%, 0 85%, 0 0);
+clip-path: polygon(40% 25%, 40% 85%, 64% 100%, 15% 100%, 0 85%, 0 0);
+	position: absolute;
+	margin-left: 1065px;
+	margin-top: 210px;
+	border-radius: 
+} 
+
+div.LetterM{
+	width: 150px;
+	height: 150px;
+	background-color: #12347b;
+-webkit-clip-path: polygon(21% 0, 40% 15%, 60% 0, 80% 0, 80% 100%, 60% 80%, 40% 100%, 20% 80%, 0 100%, 0 0);
+clip-path: polygon(21% 0, 40% 15%, 60% 0, 80% 0, 80% 100%, 60% 80%, 40% 100%, 20% 80%, 0 100%, 0 0);
+	position: absolute;
+	margin-left: 55px;
+	margin-top: 430px;
+	border-radius: 
+} 
+
+div.LetterN{
+	width: 150px;
+	height: 150px;
+	background-color: #12347b;
+-webkit-clip-path: polygon(0 0, 40% 0, 60% 15%, 80% 0, 80% 100%, 40% 100%, 20% 85%, 0 100%);
+clip-path: polygon(0 0, 40% 0, 60% 15%, 80% 0, 80% 100%, 40% 100%, 20% 85%, 0 100%);
+	position: absolute;
+	margin-left: 250px;
+	margin-top: 430px;
+	border-radius: 
+} 
+
+div.LetterO{
+	width: 150px;
+	height: 150px;
+	background-color: #12347b;
+-webkit-clip-path: polygon(40% 0, 80% 25%, 80% 75%, 40% 100%, 0% 75%, 0% 25%);
+clip-path: polygon(40% 0, 80% 25%, 80% 75%, 40% 100%, 0% 75%, 0% 25%);
+	position: absolute;
+	margin-left: 465px;
+	margin-top: 430px;
+	border-radius: 
+} 
+
+div.LetterP{
+	width: 150px;
+	height: 150px;
+	background-color: #12347b;
+-webkit-clip-path: polygon(50% 0, 75% 35%, 50% 70%, 50% 100%, 0 100%, 0 0);
+clip-path: polygon(50% 0, 75% 35%, 50% 70%, 50% 100%, 0 100%, 0 0);
+	position: absolute;
+	margin-left: 665px;
+	margin-top: 430px;
+	border-radius: 
+} 
+
+div.LetterQ{
+	width: 150px;
+	height: 150px;
+	background-color: #12347b;
+-webkit-clip-path: polygon(50% 0%, 85% 20%, 85% 80%, 74% 86%, 75% 100%, 62% 93%, 50% 100%, 15% 80%, 15% 20%);
+clip-path: polygon(50% 0%, 85% 20%, 85% 80%, 74% 86%, 75% 100%, 62% 93%, 50% 100%, 15% 80%, 15% 20%);
+	position: absolute;
+	margin-left: 845px;
+	margin-top: 430px;
+	border-radius: 
+} 
+
+div.LetterR{
+	width: 150px;
+	height: 150px;
+	background-color: #12347b;
+-webkit-clip-path: polygon(48% 0, 68% 36%, 45% 67%, 65% 85%, 65% 100%, 50% 100%, 30% 85%, 30% 100%, 0 100%, 0 0);
+clip-path: polygon(48% 0, 68% 36%, 45% 67%, 65% 85%, 65% 100%, 50% 100%, 30% 85%, 30% 100%, 0 100%, 0 0);
+	position: absolute;
+	margin-left: 1045px;
+	margin-top: 430px;
+	border-radius: 
+} 
+
+div.LetterS{
+	width: 150px;
+	height: 150px;
+	background-color: #12347b;
+-webkit-clip-path: polygon(50% 0, 85% 15%, 85% 35%, 50% 35%, 85% 57%, 85% 85%, 50% 100%, 15% 85%, 15% 55%, 35% 55%, 50% 80%, 50% 55%, 15% 35%, 15% 15%);
+clip-path: polygon(50% 0, 85% 15%, 85% 35%, 50% 35%, 85% 57%, 85% 85%, 50% 100%, 15% 85%, 15% 55%, 35% 55%, 50% 80%, 50% 55%, 15% 35%, 15% 15%);
+	position: absolute;
+	margin-left: 40px;
+	margin-top: 640px;
+	border-radius: 
+} 
+
+div.LetterT{
+	width: 150px;
+	height: 150px;
+	background-color: #12347b;
+-webkit-clip-path: polygon(90% 0, 70% 16%, 53% 100%, 30% 16%, 10% 0);
+clip-path: polygon(90% 0, 70% 16%, 53% 100%, 30% 16%, 10% 0);
+	position: absolute;
+	margin-left: 235px;
+	margin-top: 640px;
+	border-radius: 
+} 
+
+div.LetterU{
+	width: 150px;
+	height: 150px;
+	background-color: #12347b;
+-webkit-clip-path: polygon(50% 15%, 70% 0, 90% 15%, 90% 75%, 68% 100%, 32% 100%, 10% 75%, 10% 15%, 30% 0);
+clip-path: polygon(50% 15%, 70% 0, 90% 15%, 90% 75%, 68% 100%, 32% 100%, 10% 75%, 10% 15%, 30% 0);
+	position: absolute;
+	margin-left: 450px;
+	margin-top: 640px;
+	border-radius: 
+} 
+
+div.LetterV{
+	width: 150px;
+	height: 150px;
+	background-color: #12347b;
+-webkit-clip-path: polygon(50% 50%, 70% 0, 90% 15%, 90% 75%, 50% 100%, 10% 75%, 10% 15%, 30% 0);
+clip-path: polygon(50% 50%, 70% 0, 90% 15%, 90% 75%, 50% 100%, 10% 75%, 10% 15%, 30% 0);
+	position: absolute;
+	margin-left: 640px;
+	margin-top: 640px;
+	border-radius: 
+} 
+
+div.LetterW{
+	width: 150px;
+	height: 150px;
+	background-color: #12347b;
+-webkit-clip-path: polygon(21% 0, 40% 15%, 60% 0, 80% 0, 80% 100%, 60% 80%, 40% 100%, 20% 80%, 0 100%, 0 0);
+clip-path: polygon(21% 0, 40% 15%, 60% 0, 80% 0, 80% 100%, 60% 80%, 40% 100%, 20% 80%, 0 100%, 0 0);
+	position: absolute;
+	margin-left: 832px;
+	margin-top: 640px;
+	transform: rotate(180deg);
+}
+
+div.LetterX{
+	width: 150px;
+	height: 150px;
+	background-color: #12347b;
+-webkit-clip-path: polygon(50% 15%, 92% 0, 70% 50%, 90% 100%, 50% 85%, 10% 100%, 30% 50%, 10% 0);
+clip-path: polygon(50% 15%, 92% 0, 70% 50%, 90% 100%, 50% 85%, 10% 100%, 30% 50%, 10% 0);
+	position: absolute;
+	margin-left: 1030px;
+	margin-top: 640px;
+}
+
+div.LetterY{
+	width: 150px;
+	height: 150px;
+	background-color: #12347b;
+	-webkit-clip-path: polygon(50% 15%, 90% 0, 63% 40%, 50% 100%, 38% 40%, 10% 0);
+clip-path: polygon(50% 15%, 90% 0, 63% 40%, 50% 100%, 38% 40%, 10% 0);
+	position: absolute;
+	margin-left: 40px;
+	margin-top: 840px;
+}
+
+div.LetterZ{
+	width: 150px;
+	height: 150px;
+	background-color: #12347b;
+-webkit-clip-path: polygon(80% 0, 80% 70%, 60% 85%, 80% 85%, 70% 100%, 10% 100%, 25% 85%, 10% 85%, 10% 15%, 25% 0);
+clip-path: polygon(80% 0, 80% 70%, 60% 85%, 80% 85%, 70% 100%, 10% 100%, 25% 85%, 10% 85%, 10% 15%, 25% 0);
+	position: absolute;
+	margin-left: 240px;
+	margin-top: 840px;
+}
+
+div.LetterATooth{
+	width: 130px;
+	height: 150px;
+	background-color: white;
+	-webkit-clip-path: polygon(50% 0%, 100% 30%, 100% 100%, 50% 70%, 0 100%, 0 30%);
+clip-path: polygon(50% 0%, 100% 30%, 100% 100%, 50% 70%, 0 100%, 0 30%);
+	position: absolute;
+	margin-left: 50px;
+	margin-top: -14px;
+	transform: scale(0.8);
+	transition: transform 80ms ease-in-out;
+}
+
+div.LetterBTooth{
+	width: 130px;
+	height: 150px;
+	background-color: white;
+	-webkit-clip-path: polygon(80% 0, 100% 21%, 80% 40%, 100% 70%, 81% 100%, 0 100%, 0 0);
+clip-path: polygon(80% 0, 100% 21%, 80% 40%, 100% 70%, 81% 100%, 0 100%, 0 0);
+	position: absolute;
+	margin-left: 254px;
+	transform: scale(0.8);
+	transition: transform 80ms ease-in-out;
+}
+
+div.LetterCTooth{
+	width: 150px;
+	height: 150px;
+	background-color: white;
+	-webkit-clip-path: polygon(100% 0, 70% 50%, 100% 100%, 30% 100%, 0 50%, 30% 0);
+clip-path: polygon(100% 0, 70% 50%, 100% 100%, 30% 100%, 0 50%, 30% 0);
+	position: absolute;
+	margin-left: 437px;
+	transform: scale(0.8);
+	transition: transform 80ms ease-in-out;
+}
+
+div.LetterDTooth{
+	width: 150px;
+	height: 150px;
+	background-color: white;
+	-webkit-clip-path: polygon(65% 0, 100% 50%, 65% 100%, 0 100%, 0 0);
+clip-path: polygon(65% 0, 100% 50%, 65% 100%, 0 100%, 0 0);
+	position: absolute;
+	margin-left: 664px;
+	transform: scale(0.8);
+	transition: transform 80ms ease-in-out;
+} 
+
+div.LetterETooth{
+	width: 150px;
+	height: 150px;
+	background-color: white;
+	-webkit-clip-path: polygon(100% 0, 80% 30%, 100% 50%, 80% 70%, 100% 100%, 15% 100%, 15% 0);
+clip-path: polygon(100% 0, 80% 30%, 100% 50%, 80% 70%, 100% 100%, 15% 100%, 15% 0);
+	position: absolute;
+	margin-left: 834px;
+	transform: scale(0.8);
+	transition: transform 80ms ease-in-out;
+} 
+
+div.LetterFTooth{
+	width: 150px;
+	height: 150px;
+	background-color: white;
+	-webkit-clip-path: polygon(100% 0, 80% 30%, 100% 50%, 80% 70%, 80% 100%, 15% 100%, 15% 0);
+clip-path: polygon(100% 0, 80% 30%, 100% 50%, 80% 70%, 80% 100%, 15% 100%, 15% 0);
+	position: absolute;
+	margin-left: 1034px;
+	transform: scale(0.8);
+	transition: transform 80ms ease-in-out;
+} 
+
+div.LetterGTooth{
+	width: 150px;
+	height: 150px;
+	background-color: white;
+	-webkit-clip-path: polygon(80% 20%, 80% 60%, 100% 39%, 100% 81%, 80% 100%, 50% 100%, 50% 0, 100% 0);
+clip-path: polygon(80% 20%, 80% 60%, 100% 39%, 100% 81%, 80% 100%, 50% 100%, 50% 0, 100% 0);
+	position: absolute;
+	margin-left: 10px;
+	margin-top: 201px;
+	transform: scale(0.7);
+	transition: transform 80ms ease-in-out;
+} 
+
+div.LetterHTooth{
+	width: 150px;
+	height: 150px;
+	background-color: white;
+	-webkit-clip-path: polygon(50% 25%, 85% 0, 86% 100%, 50% 75%, 15% 100%, 15% 0);
+clip-path: polygon(50% 25%, 85% 0, 86% 100%, 50% 75%, 15% 100%, 15% 0);
+	position: absolute;
+	margin-left: 228px;
+	margin-top: 204px;
+	transform: scale(0.8);
+	transition: transform 80ms ease-in-out;
+}  
+
+div.LetterITooth{
+	width: 150px;
+	height: 150px;
+	background-color: white;
+	-webkit-clip-path: polygon(50% 0, 70% 15%, 70% 85%, 50% 100%, 30% 85%, 30% 15%);
+clip-path: polygon(50% 0, 70% 15%, 70% 85%, 50% 100%, 30% 85%, 30% 15%);
+	position: absolute;
+	margin-left: 450px;
+	margin-top: 223px;
+	transform: scale(0.8);
+	transition: transform 80ms ease-in-out;
+}
+
+div.LetterJTooth{
+	width: 150px;
+	height: 150px;
+	background-color: white;
+	-webkit-clip-path: polygon(80% 0, 100% 0, 100% 83%, 85% 100%, 58% 100%, 40% 85%, 40% 85%, 40% 60%, 65% 80%, 65% 15%);
+clip-path: polygon(80% 0, 100% 0, 100% 83%, 85% 100%, 58% 100%, 40% 85%, 40% 85%, 40% 60%, 65% 80%, 65% 15%);
+	position: absolute;
+	margin-left: 610px;
+	margin-top: 224px;
+	transform: scale(0.8);
+	transition: transform 80ms ease-in-out;
+} 
+
+div.LetterKTooth{
+	width: 150px;
+	height: 150px;
+	background-color: white;
+--webkit-clip-path: polygon(50% 15%, 90% 0, 70% 50%, 90% 100%, 50% 85%);
+clip-path: polygon(50% 15%, 90% 0, 70% 50%, 90% 100%, 50% 85%);
+	position: absolute;
+	margin-left: 840px;
+	margin-top: 210px;
+	transform: scale(0.8);
+	transition: transform 80ms ease-in-out;
+} 
+
+div.LetterLTooth{
+	width: 150px;
+	height: 150px;
+	background-color: white;
+-webkit-clip-path: polygon(40% 25%, 40% 85%, 64% 100%, 15% 100%, 0 85%, 0 0);
+clip-path: polygon(40% 25%, 40% 85%, 64% 100%, 15% 100%, 0 85%, 0 0);
+	position: absolute;
+	margin-left: 1055px;
+	margin-top: 219px;
+	transform: scale(0.85); 
+	transition: transform 80ms ease-in-out;
+}
+
+div.LetterMTooth{
+	width: 150px;
+	height: 150px;
+	background-color: white;
+-webkit-clip-path: polygon(21% 0, 40% 15%, 60% 0, 80% 0, 80% 100%, 60% 80%, 40% 100%, 20% 80%, 0 100%, 0 0);
+clip-path: polygon(21% 0, 40% 15%, 60% 0, 80% 0, 80% 100%, 60% 80%, 40% 100%, 20% 80%, 0 100%, 0 0);
+	position: absolute;
+	margin-left: 52px;
+	margin-top: 432px;
+	transform: scale(0.8);
+	transition: transform 80ms ease-in-out; 
+} 
+
+div.LetterNTooth{
+	width: 150px;
+	height: 150px;
+	background-color: white;
+-webkit-clip-path: polygon(0 0, 40% 0, 60% 15%, 80% 0, 80% 100%, 40% 100%, 20% 85%, 0 100%);
+clip-path: polygon(0 0, 40% 0, 60% 15%, 80% 0, 80% 100%, 40% 100%, 20% 85%, 0 100%);
+	position: absolute;
+	margin-left: 253px;
+	margin-top: 420px;
+	transform: scale(0.8);
+	transition: transform 80ms ease-in-out; 
+} 
+
+div.LetterOTooth{
+	width: 150px;
+	height: 150px;
+	background-color: white;
+-webkit-clip-path: polygon(40% 0, 80% 25%, 80% 75%, 40% 100%, 0% 75%, 0% 25%);
+clip-path: polygon(40% 0, 80% 25%, 80% 75%, 40% 100%, 0% 75%, 0% 25%);
+	position: absolute;
+	margin-left: 462px;
+	margin-top: 444px;
+	transform: scale(0.8);
+	transition: transform 80ms ease-in-out;
+}
+
+div.LetterPTooth{
+	width: 150px;
+	height: 150px;
+	background-color: white;
+-webkit-clip-path: polygon(50% 0, 75% 35%, 50% 70%, 50% 100%, 0 100%, 0 0);
+clip-path: polygon(50% 0, 75% 35%, 50% 70%, 50% 100%, 0 100%, 0 0);
+	position: absolute;
+	margin-left: 665px;
+	margin-top: 428px;
+	transform: scale(0.8);
+	transition: transform 80ms ease-in-out;
+}
+
+div.LetterQTooth{
+	width: 150px;
+	height: 150px;
+	background-color: white;
+-webkit-clip-path: polygon(50% 0%, 85% 20%, 85% 80%, 74% 86%, 75% 100%, 62% 93%, 50% 100%, 15% 80%, 15% 20%);
+clip-path: polygon(50% 0%, 85% 20%, 85% 80%, 74% 86%, 75% 100%, 62% 93%, 50% 100%, 15% 80%, 15% 20%);
+	position: absolute;
+	margin-left: 845px;
+	margin-top: 416px;
+	transform: scale(0.8);
+	transition: transform 80ms ease-in-out;
+} 
+
+div.LetterRTooth{
+	width: 150px;
+	height: 150px;
+	background-color: white;
+-webkit-clip-path: polygon(48% 0, 68% 36%, 45% 67%, 65% 85%, 65% 100%, 50% 100%, 30% 85%, 30% 100%, 0 100%, 0 0);
+clip-path: polygon(48% 0, 68% 36%, 45% 67%, 65% 85%, 65% 100%, 50% 100%, 30% 85%, 30% 100%, 0 100%, 0 0);
+	position: absolute;
+	margin-left: 1039px;
+	margin-top: 440px;
+	transform: scale(0.8);
+	transition: transform 80ms ease-in-out;
+} 
+
+div.LetterSTooth{
+	width: 150px;
+	height: 150px;
+	background-color: white;
+-webkit-clip-path: polygon(50% 20%, 90% 38%, 90% 60%, 10% 60%, 10% 38%);
+clip-path: polygon(50% 20%, 90% 38%, 90% 60%, 10% 60%, 10% 38%);
+	position: absolute;
+	margin-left: 40px;
+	margin-top: 597px;
+	transform: scale(0.7);
+	transition: transform 80ms ease-in-out;
+} 
+
+div.LetterTTooth{
+	width: 150px;
+	height: 150px;
+	background-color: white;
+-webkit-clip-path: polygon(90% 0, 65% 16%, 50% 100%, 31% 0);
+clip-path: polygon(90% 0, 65% 16%, 50% 100%, 31% 0);
+	position: absolute;
+	margin-left: 234px;
+	margin-top: 635px;
+	transform: scale(0.8);
+	transition: transform 80ms ease-in-out;
+} 
+
+div.LetterUTooth{
+	width: 150px;
+	height: 150px;
+	background-color: white;
+-webkit-clip-path: polygon(50% 15%, 70% 0, 90% 15%, 90% 75%, 68% 100%, 32% 100%, 10% 75%, 10% 15%, 30% 0);
+clip-path: polygon(50% 15%, 70% 0, 90% 15%, 90% 75%, 68% 100%, 32% 100%, 10% 75%, 10% 15%, 30% 0);
+	position: absolute;
+	margin-left: 450px;
+	margin-top: 655px;
+	transform: scale(0.8); 
+	transition: transform 80ms ease-in-out;
+}
+
+div.LetterVTooth{
+	width: 150px;
+	height: 150px;
+	background-color: white;
+-webkit-clip-path: polygon(50% 50%, 70% 0, 90% 15%, 90% 75%, 50% 100%, 10% 75%, 10% 15%, 30% 0);
+clip-path: polygon(50% 50%, 70% 0, 90% 15%, 90% 75%, 50% 100%, 10% 75%, 10% 15%, 30% 0);
+	position: absolute;
+	margin-left: 640px;
+	margin-top: 641px;
+	transform: scale(0.8); 
+	transition: transform 80ms ease-in-out;
+} 
+
+div.LetterWTooth{
+	width: 150px;
+	height: 150px;
+	background-color: white;
+-webkit-clip-path: polygon(21% 0, 40% 15%, 60% 0, 80% 0, 80% 100%, 60% 80%, 40% 100%, 20% 80%, 0 100%, 0 0);
+clip-path: polygon(21% 0, 40% 15%, 60% 0, 80% 0, 80% 100%, 60% 80%, 40% 100%, 20% 80%, 0 100%, 0 0);
+	position: absolute;
+	margin-left: 835px;
+	margin-top: 640px;
+	transform: scale(0.8) rotate(180deg);
+	transition: transform 80ms ease-in-out;
+} 
+
+div.LetterXTooth{
+	width: 150px;
+	height: 150px;
+	background-color: white;
+-webkit-clip-path: polygon(50% 15%, 92% 0, 70% 50%, 90% 100%, 50% 85%, 10% 100%, 30% 50%, 10% 0);
+clip-path: polygon(50% 15%, 92% 0, 70% 50%, 90% 100%, 50% 85%, 10% 100%, 30% 50%, 10% 0);
+	position: absolute;
+	margin-left: 1030px;
+	margin-top: 640px;
+	transform: scale(0.8);
+	transition: transform 80ms ease-in-out;
+}
+
+div.LetterYTooth{
+	width: 150px;
+	height: 150px;
+	background-color: white;
+	-webkit-clip-path: polygon(50% 15%, 90% 0, 63% 40%, 50% 100%, 38% 40%, 10% 0);
+clip-path: polygon(50% 15%, 90% 0, 63% 40%, 50% 100%, 38% 40%, 10% 0);
+	position: absolute;
+	margin-left: 40px;
+	margin-top: 830px;
+	transform: scale(0.8);
+	transition: transform 80ms ease-in-out;
+}
+
+div.LetterZTooth{
+	width: 150px;
+	height: 150px;
+	background-color: white;
+-webkit-clip-path: polygon(80% 0, 80% 70%, 60% 85%, 80% 85%, 70% 100%, 35% 100%, 35% 0);
+clip-path: polygon(80% 0, 80% 70%, 60% 85%, 80% 85%, 70% 100%, 35% 100%, 35% 0);
+	position: absolute;
+	margin-left: 239px;
+	margin-top: 840px;
+	transition: transform 80ms ease-in-out;
+}
+
+div.LetterKTitleTooth{
+	width: 150px;
+	height: 150px;
+	background-color: white;
+-webkit-clip-path: polygon(50% 15%, 90% 0, 70% 50%, 90% 100%, 50% 85%);
+clip-path: polygon(50% 15%, 90% 0, 70% 50%, 90% 100%, 50% 85%);
+	position: absolute;
+	margin-left: 255px;
+	margin-top: 210px;
+	transform: scale(0.8);
+	transition: transform 80ms ease-in-out;
+} 
+
+div.LetterATitle1Tooth{
+	width: 130px;
+	height: 150px;
+	background-color: white;
+	-webkit-clip-path: polygon(50% 0%, 100% 30%, 100% 100%, 50% 70%, 0 100%, 0 30%);
+clip-path: polygon(50% 0%, 100% 30%, 100% 100%, 50% 70%, 0 100%, 0 30%);
+	position: absolute;
+	margin-left: 420px;
+	margin-top: 196px;
+	transform: scale(0.8);
+	transition: transform 80ms ease-in-out;
+}
+
+div.LetterGTitleTooth{
+	width: 150px;
+	height: 150px;
+	background-color: white;
+	-webkit-clip-path: polygon(80% 20%, 80% 60%, 100% 39%, 100% 81%, 80% 100%, 50% 100%, 50% 0, 100% 0);
+clip-path: polygon(80% 20%, 80% 60%, 100% 39%, 100% 81%, 80% 100%, 50% 100%, 50% 0, 100% 0);
+	position: absolute;
+	margin-left: 541px;
+	margin-top: 205px;
+	transform: scale(0.8);
+	transition: transform 80ms ease-in-out;
+} 
+
+div.LetterATitle2Tooth{
+	width: 130px;
+	height: 150px;
+	background-color: white;
+	-webkit-clip-path: polygon(50% 0%, 100% 30%, 100% 100%, 50% 70%, 0 100%, 0 30%);
+clip-path: polygon(50% 0%, 100% 30%, 100% 100%, 50% 70%, 0 100%, 0 30%);
+	position: absolute;
+	margin-left: 760px;
+	margin-top: 196px;
+	transform: scale(0.8); 
+	transition: transform 80ms ease-in-out;
+}
+
+div.LetterTTitleTooth{
+	width: 150px;
+	height: 150px;
+	background-color: white;
+-webkit-clip-path: polygon(90% 0, 65% 16%, 50% 100%, 31% 0);
+clip-path: polygon(90% 0, 65% 16%, 50% 100%, 31% 0);
+	position: absolute;
+	margin-left: 890px;
+	margin-top: 204px;
+	transform: scale(0.8); 
+	transition: transform 80ms ease-in-out;
+} 
+
+div.Number1{
+	width: 150px;
+	height: 150px;
+	background-color: #12347b;
+-webkit-clip-path: polygon(50% 0, 65% 15%, 65% 85%, 50% 100%, 36% 85%, 36% 15%, 25% 15%);
+clip-path: polygon(50% 0, 65% 15%, 65% 85%, 50% 100%, 36% 85%, 36% 15%, 25% 15%);
+	position: absolute;
+	margin-left: 40px;
+	margin-top: 200px;
+}
+
+div.Number2{
+	width: 150px;
+	height: 150px;
+	background-color: #12347b;
+-webkit-clip-path: polygon(10% 0, 80% 0, 80% 70%, 65% 85%, 80% 85%, 70% 100%, 10% 100%, 45% 50%);
+clip-path: polygon(10% 0, 80% 0, 80% 70%, 65% 85%, 80% 85%, 70% 100%, 10% 100%, 45% 50%);
+	position: absolute;
+	margin-left: 240px;
+	margin-top: 200px;
+}
+
+div.Number3{
+	width: 150px;
+	height: 150px;
+	background-color: #12347b;
+-webkit-clip-path: polygon(85% 0, 85% 35%, 70% 50%, 85% 65%, 85% 100%, 8% 100%, 30% 65%, 15% 50%, 30% 35%, 8% 0);
+clip-path: polygon(85% 0, 85% 35%, 70% 50%, 85% 65%, 85% 100%, 8% 100%, 30% 65%, 15% 50%, 30% 35%, 8% 0);
+	position: absolute;
+	margin-left: 460px;
+	margin-top: 200px;
+}
+
+div.Number4{
+	width: 150px;
+	height: 150px;
+	background-color: #12347b;
+-webkit-clip-path: polygon(50% 20%, 85% 0, 85% 100%, 15% 51%, 15% 0);
+clip-path: polygon(50% 20%, 85% 0, 85% 100%, 15% 51%, 15% 0);
+	position: absolute;
+	margin-left: 650px;
+	margin-top: 200px;
+}
+
+div.Number5{
+	width: 150px;
+	height: 150px;
+	background-color: #12347b;
+-webkit-clip-path: polygon(85% 0, 85% 25%, 70% 25%, 85% 61%, 70% 100%, 15% 100%, 34% 61%, 15% 25%, 15% 0);
+clip-path: polygon(85% 0, 85% 25%, 70% 25%, 85% 61%, 70% 100%, 15% 100%, 34% 61%, 15% 25%, 15% 0);
+	position: absolute;
+	margin-left: 845px;
+	margin-top: 200px;
+}
+
+div.Number6{
+	width: 150px;
+	height: 150px;
+	background-color: #12347b;
+-webkit-clip-path: polygon(87% 0, 72% 31%, 91% 52%, 76% 100%, 36% 100%, 15% 52%, 39% 0);
+clip-path: polygon(87% 0, 72% 31%, 91% 52%, 76% 100%, 36% 100%, 15% 52%, 39% 0);
+	position: absolute;
+	margin-left: 1025px;
+	margin-top: 200px;
+}
+
+div.Number7{
+	width: 150px;
+	height: 150px;
+	background-color: #12347b;
+-webkit-clip-path: polygon(24% 0, 93% 0, 63% 100%, 52% 19%);
+clip-path: polygon(24% 0, 93% 0, 63% 100%, 52% 19%);
+	position: absolute;
+	margin-left: 25px;
+	margin-top: 420px;
+}
+
+div.Number8{
+	width: 150px;
+	height: 150px;
+	background-color: #12347b;
+-webkit-clip-path: polygon(15% 0, 85% 0, 85% 39%, 70% 50%, 85% 60%, 85% 100%, 15% 100%, 15% 60%, 30% 50%, 15% 44%);
+clip-path: polygon(15% 0, 85% 0, 85% 39%, 70% 50%, 85% 60%, 85% 100%, 15% 100%, 15% 60%, 30% 50%, 15% 44%);
+	position: absolute;
+	margin-left: 233px;
+	margin-top: 420px;
+}
+
+div.Number9{
+	width: 150px;
+	height: 150px;
+	background-color: #12347b;
+-webkit-clip-path: polygon(15% 0, 85% 0, 85% 100%, 15% 50%);
+clip-path: polygon(15% 0, 85% 0, 85% 100%, 15% 50%);
+	position: absolute;
+	margin-left: 455px;
+	margin-top: 420px;
+}
+
+div.Number0{
+	width: 150px;
+	height: 150px;
+	background-color: #12347b;
+-webkit-clip-path: polygon(50% 0%, 85% 8%, 85% 92%, 50% 100%, 15% 92%, 15% 8%);
+clip-path: polygon(50% 0%, 85% 8%, 85% 92%, 50% 100%, 15% 92%, 15% 8%);
+	position: absolute;
+	margin-left: 655px;
+	margin-top: 420px;
+}
+
+div.PunctQues1{
+	width: 150px;
+	height: 150px;
+	background-color: #12347b;
+-webkit-clip-path: polygon(73% 0, 94% 28%, 66% 89%, 63% 30%, 31% 20%);
+clip-path: polygon(73% 0, 94% 28%, 66% 89%, 63% 30%, 31% 20%);
+	position: absolute;
+	margin-left: 830px;
+	margin-top: 410px;
+}
+
+div.PunctQues2{
+	width: 150px;
+	height: 150px;
+	background-color: #12347b;
+-webkit-clip-path: polygon(7% 85%, 23% 85%, 15% 100%, 0% 100%);
+clip-path: polygon(7% 85%, 23% 85%, 15% 100%, 0% 100%);
+	position: absolute;
+	margin-left: 909px;
+	margin-top: 425px;
+}
+
+div.PunctExcl1{
+	width: 150px;
+	height: 150px;
+	background-color: #12347b;
+-webkit-clip-path: polygon(50% 3%, 65% 10%, 57% 82%, 44% 82%, 35% 11%);
+clip-path: polygon(50% 3%, 65% 10%, 57% 82%, 44% 82%, 35% 11%);
+	position: absolute;
+	margin-left: 1035px;
+	margin-top: 410px;
+}
+
+div.PunctExcl2{
+	width: 150px;
+	height: 150px;
+	background-color: #12347b;
+-webkit-clip-path: polygon(7% 85%, 23% 85%, 15% 100%, 0% 100%);
+clip-path: polygon(7% 85%, 23% 85%, 15% 100%, 0% 100%);
+	position: absolute;
+	margin-left: 1087px;
+	margin-top: 425px;
+}
+
+div.Number1Tooth{
+	width: 150px;
+	height: 150px;
+	background-color: white;
+-webkit-clip-path: polygon(50% 0, 65% 15%, 65% 85%, 50% 100%, 36% 85%, 36% 15%, 25% 15%);
+clip-path: polygon(50% 0, 65% 15%, 65% 85%, 50% 100%, 36% 85%, 36% 15%, 25% 15%);
+	position: absolute;
+	margin-left: 40px;
+	margin-top: 189px;
+	transform: scale(0.8); 
+	transition: transform 80ms ease-in-out;
+}
+
+div.Number2Tooth{
+	width: 150px;
+	height: 150px;
+	background-color: white;
+-webkit-clip-path: polygon(10% 0, 80% 0, 80% 70%, 65% 85%, 65% 100%, 10% 100%, 45% 50%);
+clip-path: polygon(10% 0, 80% 0, 80% 70%, 65% 85%, 65% 100%, 10% 100%, 45% 50%);
+	position: absolute;
+	margin-left: 240px;
+	margin-top: 200px;
+	transform: scale(0.8); 
+	transition: transform 80ms ease-in-out;
+}
+
+div.Number3Tooth{
+	width: 150px;
+	height: 150px;
+	background-color: white;
+-webkit-clip-path: polygon(85% 0, 85% 35%, 70% 50%, 85% 65%, 85% 100%, 8% 100%, 30% 65%, 15% 50%, 30% 35%, 8% 0);
+clip-path: polygon(85% 0, 85% 35%, 70% 50%, 85% 65%, 85% 100%, 8% 100%, 30% 65%, 15% 50%, 30% 35%, 8% 0);
+	position: absolute;
+	margin-left: 460px;
+	margin-top: 200px;
+	transform: scale(0.8); 
+	transition: transform 80ms ease-in-out;
+}
+
+div.Number4Tooth{
+	width: 150px;
+	height: 150px;
+	background-color: white;
+-webkit-clip-path: polygon(50% 20%, 85% 0, 85% 100%, 15% 51%, 15% 0);
+clip-path: polygon(50% 20%, 85% 0, 85% 100%, 15% 51%, 15% 0);
+	position: absolute;
+	margin-left: 650px;
+	margin-top: 200px;
+	transform: scale(0.8); 
+	transition: transform 80ms ease-in-out;
+}
+
+div.Number5Tooth{
+	width: 150px;
+	height: 150px;
+	background-color: white;
+-webkit-clip-path: polygon(70% 0, 70% 25%, 85% 61%, 70% 100%, 15% 100%, 34% 61%, 15% 25%, 15% 0);
+clip-path: polygon(70% 0, 70% 25%, 85% 61%, 70% 100%, 15% 100%, 34% 61%, 15% 25%, 15% 0);
+	position: absolute;
+	margin-left: 845px;
+	margin-top: 200px;
+	transform: scale(0.8); 
+	transition: transform 80ms ease-in-out;
+}
+
+div.Number6Tooth{
+	width: 150px;
+	height: 150px;
+	background-color: white;
+-webkit-clip-path: polygon(87% 0, 72% 31%, 91% 52%, 76% 100%, 36% 100%, 15% 52%, 39% 0);
+clip-path: polygon(87% 0, 72% 31%, 91% 52%, 76% 100%, 36% 100%, 15% 52%, 39% 0);
+	position: absolute;
+	margin-left: 1025px;
+	margin-top: 200px;
+	transform: scale(0.8); 
+	transition: transform 80ms ease-in-out;
+}
+
+div.Number7Tooth{
+	width: 150px;
+	height: 150px;
+	background-color: white;
+-webkit-clip-path: polygon(24% 0, 93% 0, 63% 100%, 52% 19%);
+clip-path: polygon(24% 0, 93% 0, 63% 100%, 52% 19%);
+	position: absolute;
+	margin-left: 30px;
+	margin-top: 413px;
+	transform: scale(0.8); 
+	transition: transform 80ms ease-in-out;
+}
+
+div.Number8Tooth{
+	width: 150px;
+	height: 150px;
+	background-color: white;
+-webkit-clip-path: polygon(15% 0, 85% 0, 85% 39%, 70% 50%, 85% 60%, 85% 100%, 15% 100%, 15% 60%, 30% 50%, 15% 44%);
+clip-path: polygon(15% 0, 85% 0, 85% 39%, 70% 50%, 85% 60%, 85% 100%, 15% 100%, 15% 60%, 30% 50%, 15% 44%);
+	position: absolute;
+	margin-left: 238px;
+	margin-top: 420px;
+	transform: scale(0.8); 
+	transition: transform 80ms ease-in-out;
+}
+
+div.Number9Tooth{
+	width: 150px;
+	height: 150px;
+	background-color: white;
+-webkit-clip-path: polygon(15% 0, 85% 0, 85% 100%, 15% 50%);
+clip-path: polygon(15% 0, 85% 0, 85% 100%, 15% 50%);
+	position: absolute;
+	margin-left: 455px;
+	margin-top: 420px;
+	transform: scale(0.8); 
+	transition: transform 80ms ease-in-out;
+}
+
+div.Number0Tooth{
+	width: 150px;
+	height: 150px;
+	background-color: white;
+-webkit-clip-path: polygon(50% 0%, 85% 8%, 85% 92%, 50% 100%, 15% 92%, 15% 8%);
+clip-path: polygon(50% 0%, 85% 8%, 85% 92%, 50% 100%, 15% 92%, 15% 8%);
+	position: absolute;
+	margin-left: 655px;
+	margin-top: 410px;
+	transform: scale(0.8); 
+	transition: transform 80ms ease-in-out;
+}
+
+div.PunctQues1Tooth{
+	width: 150px;
+	height: 150px;
+	background-color: white;
+-webkit-clip-path: polygon(73% 0, 94% 28%, 66% 89%, 63% 30%, 31% 20%);
+clip-path: polygon(73% 0, 94% 28%, 66% 89%, 63% 30%, 31% 20%);
+	position: absolute;
+	margin-left: 835px;
+	margin-top: 400px;
+	transform: scale(0.8); 
+	transition: transform 80ms ease-in-out;
+}
+
+div.PunctQues2Tooth{
+	width: 150px;
+	height: 150px;
+	background-color: white;
+-webkit-clip-path: polygon(7% 85%, 23% 85%, 15% 100%, 0% 100%);
+clip-path: polygon(7% 85%, 23% 85%, 15% 100%, 0% 100%);
+	position: absolute;
+	margin-left: 900px;
+	margin-top: 437px;
+	transform: scale(0.8); 
+	transition: transform 80ms ease-in-out;
+}
+
+div.PunctExcl1Tooth{
+	width: 150px;
+	height: 150px;
+	background-color: white;
+-webkit-clip-path: polygon(50% 3%, 65% 10%, 57% 82%, 44% 82%, 35% 11%);
+clip-path: polygon(50% 3%, 65% 10%, 57% 82%, 44% 82%, 35% 11%);
+	position: absolute;
+	margin-left: 1035px;
+	margin-top: 410px;
+	transform: scale(0.8); 
+	transition: transform 80ms ease-in-out;
+}
+
+div.PunctExcl2Tooth{
+	width: 150px;
+	height: 150px;
+	background-color: white;
+-webkit-clip-path: polygon(7% 85%, 23% 85%, 15% 100%, 0% 100%);
+clip-path: polygon(7% 85%, 23% 85%, 15% 100%, 0% 100%);
+	position: absolute;
+	margin-left: 1078px;
+	margin-top: 437px;
+	transform: scale(0.8); 
+	transition: transform 80ms ease-in-out;
+}
+
+
+
+div.LetterTSentence{
+	width: 150px;
+	height: 150px;
+	background-color: #12347b;
+-webkit-clip-path: polygon(90% 0, 70% 16%, 53% 100%, 30% 16%, 10% 0);
+clip-path: polygon(90% 0, 70% 16%, 53% 100%, 30% 16%, 10% 0);
+	position: absolute;
+	margin-left: 40px;
+	margin-top: 200px;
+} 
+
+div.LetterTSentenceTooth{
+	width: 150px;
+	height: 150px;
+	background-color: white;
+-webkit-clip-path: polygon(90% 0, 70% 16%, 53% 100%, 30% 16%, 10% 0);
+clip-path: polygon(90% 0, 70% 16%, 53% 100%, 30% 16%, 10% 0);
+	position: absolute;
+	margin-left: 40px;
+	margin-top: 194px;
+	transform: scale(0.8); 
+	transition: transform 80ms ease-in-out;
+} 
+
+div.LetterASentence{
+	width: 130px;
+	height: 150px;
+	background-color: #12347b;
+	-webkit-clip-path: polygon(50% 0%, 100% 30%, 100% 100%, 50% 70%, 0 100%, 0 30%);
+clip-path: polygon(50% 0%, 100% 30%, 100% 100%, 50% 70%, 0 100%, 0 30%);
+	position: absolute;
+	margin-left: 180px;
+	margin-top: 200px;
+}
+
+div.LetterASentenceTooth{
+	width: 130px;
+	height: 150px;
+	background-color: white;
+	-webkit-clip-path: polygon(50% 0%, 100% 30%, 100% 100%, 50% 70%, 0 100%, 0 30%);
+clip-path: polygon(50% 0%, 100% 30%, 100% 100%, 50% 70%, 0 100%, 0 30%);
+	position: absolute;
+	margin-left: 180px;
+	margin-top: 190px;
+	transform: scale(0.8); 
+	transition: transform 80ms ease-in-out;
+}
+
+div.LetterKSentence{
+	width: 150px;
+	height: 150px;
+	background-color: #12347b;
+-webkit-clip-path: polygon(50% 15%, 90% 0, 70% 50%, 90% 100%, 50% 85%, 15% 100%, 15% 0);
+clip-path: polygon(50% 15%, 90% 0, 70% 50%, 90% 100%, 50% 85%, 15% 100%, 15% 0);
+	position: absolute;
+	margin-left: 332px;
+	margin-top: 200px;
+} 
+
+div.LetterKSentenceTooth{
+	width: 150px;
+	height: 150px;
+	background-color: white;
+-webkit-clip-path: polygon(50% 15%, 90% 0, 70% 50%, 90% 100%, 50% 85%, 15% 100%, 15% 0);
+clip-path: polygon(50% 15%, 90% 0, 70% 50%, 90% 100%, 50% 85%, 15% 100%, 15% 0);
+	position: absolute;
+	margin-left: 332px;
+	margin-top: 200px;
+	transform: scale(0.8); 
+	transition: transform 80ms ease-in-out;
+} 
+
+div.LetterESentence{
+	width: 150px;
+	height: 150px;
+	background-color: #12347b;
+	-webkit-clip-path: polygon(100% 0, 80% 30%, 100% 50%, 80% 70%, 100% 100%, 15% 100%, 15% 0);
+clip-path: polygon(100% 0, 80% 30%, 100% 50%, 80% 70%, 100% 100%, 15% 100%, 15% 0);
+	position: absolute;
+	margin-left: 490px;
+	margin-top: 200px;
+} 
+
+div.LetterESentenceTooth{
+	width: 150px;
+	height: 150px;
+	background-color: white;
+	-webkit-clip-path: polygon(100% 0, 80% 30%, 100% 50%, 80% 70%, 100% 100%, 15% 100%, 15% 0);
+clip-path: polygon(100% 0, 80% 30%, 100% 50%, 80% 70%, 100% 100%, 15% 100%, 15% 0);
+	position: absolute;
+	margin-left: 490px;
+	margin-top: 200px;
+	transform: scale(0.8); 
+	transition: transform 80ms ease-in-out;
+} 
+
+div.LetterASentence2{
+	width: 130px;
+	height: 150px;
+	background-color: #12347b;
+	-webkit-clip-path: polygon(50% 0%, 100% 30%, 100% 100%, 50% 70%, 0 100%, 0 30%);
+clip-path: polygon(50% 0%, 100% 30%, 100% 100%, 50% 70%, 0 100%, 0 30%);
+	position: absolute;
+	margin-left: 600px;
+	margin-top: 450px;
+}
+
+div.LetterASentence2Tooth{
+	width: 130px;
+	height: 150px;
+	background-color: white;
+	-webkit-clip-path: polygon(50% 0%, 100% 30%, 100% 100%, 50% 70%, 0 100%, 0 30%);
+clip-path: polygon(50% 0%, 100% 30%, 100% 100%, 50% 70%, 0 100%, 0 30%);
+	position: absolute;
+	margin-left: 600px;
+	margin-top: 440px;
+	transform: scale(0.8); 
+	transition: transform 80ms ease-in-out;
+}
+
+div.LetterBSentence{
+	width: 130px;
+	height: 150px;
+	background-color: #12347b;
+	-webkit-clip-path: polygon(80% 0, 100% 21%, 80% 40%, 100% 70%, 81% 100%, 0 100%, 0 0);
+clip-path: polygon(80% 0, 100% 21%, 80% 40%, 100% 70%, 81% 100%, 0 100%, 0 0);
+	position: absolute;
+	margin-left: 700px;
+	margin-top: 700px;
+}
+
+div.LetterBSentenceTooth{
+	width: 130px;
+	height: 150px;
+	background-color: white;
+	-webkit-clip-path: polygon(80% 0, 100% 21%, 80% 40%, 100% 70%, 81% 100%, 0 100%, 0 0);
+clip-path: polygon(80% 0, 100% 21%, 80% 40%, 100% 70%, 81% 100%, 0 100%, 0 0);
+	position: absolute;
+	margin-left: 704px;
+	margin-top: 700px;
+	transform: scale(0.8); 
+	transition: transform 80ms ease-in-out;
+}
+
+div.LetterISentence{
+	width: 150px;
+	height: 150px;
+	background-color: #12347b;
+	-webkit-clip-path: polygon(50% 0, 70% 15%, 70% 85%, 50% 100%, 30% 85%, 30% 15%);
+clip-path: polygon(50% 0, 70% 15%, 70% 85%, 50% 100%, 30% 85%, 30% 15%);
+	position: absolute;
+	margin-left: 825px;
+	margin-top: 705px;
+	
+}
+
+div.LetterISentenceTooth{
+	width: 150px;
+	height: 150px;
+	background-color: white;
+	-webkit-clip-path: polygon(50% 0, 70% 15%, 70% 85%, 50% 100%, 30% 85%, 30% 15%);
+clip-path: polygon(50% 0, 70% 15%, 70% 85%, 50% 100%, 30% 85%, 30% 15%);
+	position: absolute;
+	margin-left: 825px;
+	margin-top: 715px;
+	transform: scale(0.8); 
+	transition: transform 80ms ease-in-out;
+}
+
+div.LetterTSentence2{
+	width: 150px;
+	height: 150px;
+	background-color: #12347b;
+-webkit-clip-path: polygon(90% 0, 70% 16%, 53% 100%, 30% 16%, 10% 0);
+clip-path: polygon(90% 0, 70% 16%, 53% 100%, 30% 16%, 10% 0);
+	position: absolute;
+	margin-left: 935px;
+	margin-top: 702px;
+}
+
+div.LetterTSentence2Tooth{
+	width: 150px;
+	height: 150px;
+	background-color: white;
+-webkit-clip-path: polygon(90% 0, 70% 16%, 53% 100%, 30% 16%, 10% 0);
+clip-path: polygon(90% 0, 70% 16%, 53% 100%, 30% 16%, 10% 0);
+	position: absolute;
+	margin-left: 935px;
+	margin-top: 695px;
+	transform: scale(0.8); 
+	transition: transform 80ms ease-in-out;
+}
+
+div.LetterESentence2{
+	width: 150px;
+	height: 150px;
+	background-color: #12347b;
+	-webkit-clip-path: polygon(100% 0, 80% 30%, 100% 50%, 80% 70%, 100% 100%, 15% 100%, 15% 0);
+clip-path: polygon(100% 0, 80% 30%, 100% 50%, 80% 70%, 100% 100%, 15% 100%, 15% 0);
+	position: absolute;
+	margin-left: 1080px;
+	margin-top: 700px;
+} 
+
+div.LetterESentence2Tooth{
+	width: 150px;
+	height: 150px;
+	background-color: white;
+	-webkit-clip-path: polygon(100% 0, 80% 30%, 100% 50%, 80% 70%, 100% 100%, 15% 100%, 15% 0);
+clip-path: polygon(100% 0, 80% 30%, 100% 50%, 80% 70%, 100% 100%, 15% 100%, 15% 0);
+	position: absolute;
+	margin-left: 1084px;
+	margin-top: 700px;
+	transform: scale(0.8); 
+	transition: transform 80ms ease-in-out;
+} 
+
+div.Number8blank{
+	width: 150px;
+	height: 150px;
+	background-color: #06162f;
+-webkit-clip-path: polygon(15% 0, 85% 0, 85% 39%, 70% 50%, 85% 60%, 85% 100%, 15% 100%, 15% 60%, 30% 50%, 15% 44%);
+clip-path: polygon(15% 0, 85% 0, 85% 39%, 70% 50%, 85% 60%, 85% 100%, 15% 100%, 15% 60%, 30% 50%, 15% 44%);
+	position: absolute;
+	margin-left: 233px;
+	margin-top: 750px;
+}
+
