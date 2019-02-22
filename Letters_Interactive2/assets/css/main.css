@@ -1,5 +1,5 @@
 body {
-	background: #06162f;
+	background: #ffd392;
 }
 
 .hover:hover .slideUp {
@@ -75,7 +75,7 @@ div.stageTitle{
 	width: 1300px;
 	height: 650px;
 	margin: 100px auto;
-	background: #06162f;
+	background: #ffd392;
 	position: relative;
 }
 
@@ -83,15 +83,16 @@ div.stageAlphabet{
 	width: 1300px;
 	height: 950px;
 	margin: 100px auto;
-	background: #06162f;
+	background: #ffd392;
 	position: relative;
+	transform: scale(0.7);
 }
 
 div.stageNumbersandPunctuations{
 	width: 1300px;
 	height: 650px;
 	margin: 100px auto;
-	background: #06162f;
+	background: #ffd392;
 	position: relative;
 }
 
@@ -99,14 +100,14 @@ div.stageTakeABite{
 	width: 1300px;
 	height: 650px;
 	margin: 100px auto;
-	background: #06162f;
+	background: #ffd392;
 	position: relative;
 }
 
 div.LetterKTitle{
 	width: 150px;
 	height: 150px;
-	background-color: #12347b;
+	background-color: #313453;
 -webkit-clip-path: polygon(50% 15%, 90% 0, 70% 50%, 90% 100%, 50% 85%, 15% 100%, 15% 0);
 clip-path: polygon(50% 15%, 90% 0, 70% 50%, 90% 100%, 50% 85%, 15% 100%, 15% 0);
 	position: absolute;
@@ -118,7 +119,7 @@ clip-path: polygon(50% 15%, 90% 0, 70% 50%, 90% 100%, 50% 85%, 15% 100%, 15% 0);
 div.LetterATitle1 {
 	width: 130px;
 	height: 150px;
-	background-color: #12347b;
+	background-color: #313453;
 	-webkit-clip-path: polygon(50% 0%, 100% 30%, 100% 100%, 50% 70%, 0 100%, 0 30%);
 clip-path: polygon(50% 0%, 100% 30%, 100% 100%, 50% 70%, 0 100%, 0 30%);
 	position: absolute;
@@ -131,7 +132,7 @@ clip-path: polygon(50% 0%, 100% 30%, 100% 100%, 50% 70%, 0 100%, 0 30%);
 div.LetterGTitle{
 	width: 150px;
 	height: 150px;
-	background-color: #12347b;
+	background-color: #313453;
 	-webkit-clip-path: polygon(100% 0, 80% 20%, 80% 60%, 100% 39%, 100% 81%, 80% 100%, 40% 100%, 20% 80%, 20% 20%, 40% 0);
 clip-path: polygon(100% 0, 80% 20%, 80% 60%, 100% 39%, 100% 81%, 80% 100%, 40% 100%, 20% 80%, 20% 20%, 40% 0);
 	position: absolute;
@@ -143,7 +144,7 @@ clip-path: polygon(100% 0, 80% 20%, 80% 60%, 100% 39%, 100% 81%, 80% 100%, 40% 1
 div.LetterATitle2 {
 	width: 130px;
 	height: 150px;
-	background-color: #12347b;
+	background-color: #313453;
 	-webkit-clip-path: polygon(50% 0%, 100% 30%, 100% 100%, 50% 70%, 0 100%, 0 30%);
 clip-path: polygon(50% 0%, 100% 30%, 100% 100%, 50% 70%, 0 100%, 0 30%);
 	position: absolute;
@@ -155,7 +156,7 @@ clip-path: polygon(50% 0%, 100% 30%, 100% 100%, 50% 70%, 0 100%, 0 30%);
 div.LetterTTitle{
 	width: 150px;
 	height: 150px;
-	background-color: #12347b;
+	background-color: #313453;
 -webkit-clip-path: polygon(90% 0, 70% 16%, 53% 100%, 30% 16%, 10% 0);
 clip-path: polygon(90% 0, 70% 16%, 53% 100%, 30% 16%, 10% 0);
 	position: absolute;
@@ -167,7 +168,7 @@ clip-path: polygon(90% 0, 70% 16%, 53% 100%, 30% 16%, 10% 0);
 div.LetterA {
 	width: 130px;
 	height: 150px;
-	background-color: #12347b;
+	background-color: #313453;
 	-webkit-clip-path: polygon(50% 0%, 100% 30%, 100% 100%, 50% 70%, 0 100%, 0 30%);
 clip-path: polygon(50% 0%, 100% 30%, 100% 100%, 50% 70%, 0 100%, 0 30%);
 	position: absolute;
@@ -178,7 +179,7 @@ clip-path: polygon(50% 0%, 100% 30%, 100% 100%, 50% 70%, 0 100%, 0 30%);
 div.LetterB {
 	width: 130px;
 	height: 150px;
-	background-color: #12347b;
+	background-color: #313453;
 	-webkit-clip-path: polygon(80% 0, 100% 21%, 80% 40%, 100% 70%, 81% 100%, 0 100%, 0 0);
 clip-path: polygon(80% 0, 100% 21%, 80% 40%, 100% 70%, 81% 100%, 0 100%, 0 0);
 	position: absolute;
@@ -189,7 +190,7 @@ clip-path: polygon(80% 0, 100% 21%, 80% 40%, 100% 70%, 81% 100%, 0 100%, 0 0);
 div.LetterC{
 	width: 150px;
 	height: 150px;
-	background-color: #12347b;
+	background-color: #313453;
 	-webkit-clip-path: polygon(100% 0, 70% 50%, 100% 100%, 30% 100%, 0 50%, 30% 0);
 clip-path: polygon(100% 0, 70% 50%, 100% 100%, 30% 100%, 0 50%, 30% 0);
 	position: absolute;
@@ -200,7 +201,7 @@ clip-path: polygon(100% 0, 70% 50%, 100% 100%, 30% 100%, 0 50%, 30% 0);
 div.LetterD{
 	width: 150px;
 	height: 150px;
-	background-color: #12347b;
+	background-color: #313453;
 	-webkit-clip-path: polygon(65% 0, 100% 50%, 65% 100%, 0 100%, 0 0);
 clip-path: polygon(65% 0, 100% 50%, 65% 100%, 0 100%, 0 0);
 	position: absolute;
@@ -211,7 +212,7 @@ clip-path: polygon(65% 0, 100% 50%, 65% 100%, 0 100%, 0 0);
 div.LetterE{
 	width: 150px;
 	height: 150px;
-	background-color: #12347b;
+	background-color: #313453;
 	-webkit-clip-path: polygon(100% 0, 80% 30%, 100% 50%, 80% 70%, 100% 100%, 15% 100%, 15% 0);
 clip-path: polygon(100% 0, 80% 30%, 100% 50%, 80% 70%, 100% 100%, 15% 100%, 15% 0);
 	position: absolute;
@@ -222,7 +223,7 @@ clip-path: polygon(100% 0, 80% 30%, 100% 50%, 80% 70%, 100% 100%, 15% 100%, 15% 
 div.LetterF{
 	width: 150px;
 	height: 150px;
-	background-color: #12347b;
+	background-color: #313453;
 	-webkit-clip-path: polygon(100% 0, 80% 30%, 100% 50%, 80% 70%, 80% 100%, 15% 100%, 15% 0);
 clip-path: polygon(100% 0, 80% 30%, 100% 50%, 80% 70%, 80% 100%, 15% 100%, 15% 0);
 	position: absolute;
@@ -233,7 +234,7 @@ clip-path: polygon(100% 0, 80% 30%, 100% 50%, 80% 70%, 80% 100%, 15% 100%, 15% 0
 div.LetterG{
 	width: 150px;
 	height: 150px;
-	background-color: #12347b;
+	background-color: #313453;
 	-webkit-clip-path: polygon(100% 0, 80% 20%, 80% 60%, 100% 39%, 100% 81%, 80% 100%, 40% 100%, 20% 80%, 20% 20%, 40% 0);
 clip-path: polygon(100% 0, 80% 20%, 80% 60%, 100% 39%, 100% 81%, 80% 100%, 40% 100%, 20% 80%, 20% 20%, 40% 0);
 	position: absolute;
@@ -245,7 +246,7 @@ clip-path: polygon(100% 0, 80% 20%, 80% 60%, 100% 39%, 100% 81%, 80% 100%, 40% 1
 div.LetterH{
 	width: 150px;
 	height: 150px;
-	background-color: #12347b;
+	background-color: #313453;
 	-webkit-clip-path: polygon(50% 25%, 85% 0, 86% 100%, 50% 75%, 15% 100%, 15% 0);
 clip-path: polygon(50% 25%, 85% 0, 86% 100%, 50% 75%, 15% 100%, 15% 0);
 	position: absolute;
@@ -257,7 +258,7 @@ clip-path: polygon(50% 25%, 85% 0, 86% 100%, 50% 75%, 15% 100%, 15% 0);
 div.LetterI{
 	width: 150px;
 	height: 150px;
-	background-color: #12347b;
+	background-color: #313453;
 	-webkit-clip-path: polygon(50% 0, 70% 15%, 70% 85%, 50% 100%, 30% 85%, 30% 15%);
 clip-path: polygon(50% 0, 70% 15%, 70% 85%, 50% 100%, 30% 85%, 30% 15%);
 	position: absolute;
@@ -269,7 +270,7 @@ clip-path: polygon(50% 0, 70% 15%, 70% 85%, 50% 100%, 30% 85%, 30% 15%);
 div.LetterJ{
 	width: 150px;
 	height: 150px;
-	background-color: #12347b;
+	background-color: #313453;
 	-webkit-clip-path: polygon(80% 0, 100% 0, 100% 83%, 85% 100%, 58% 100%, 40% 85%, 40% 85%, 40% 60%, 65% 80%, 65% 15%);
 clip-path: polygon(80% 0, 100% 0, 100% 83%, 85% 100%, 58% 100%, 40% 85%, 40% 85%, 40% 60%, 65% 80%, 65% 15%);
 	position: absolute;
@@ -281,7 +282,7 @@ clip-path: polygon(80% 0, 100% 0, 100% 83%, 85% 100%, 58% 100%, 40% 85%, 40% 85%
 div.LetterK{
 	width: 150px;
 	height: 150px;
-	background-color: #12347b;
+	background-color: #313453;
 -webkit-clip-path: polygon(50% 15%, 90% 0, 70% 50%, 90% 100%, 50% 85%, 15% 100%, 15% 0);
 clip-path: polygon(50% 15%, 90% 0, 70% 50%, 90% 100%, 50% 85%, 15% 100%, 15% 0);
 	position: absolute;
@@ -293,7 +294,7 @@ clip-path: polygon(50% 15%, 90% 0, 70% 50%, 90% 100%, 50% 85%, 15% 100%, 15% 0);
 div.LetterL{
 	width: 150px;
 	height: 150px;
-	background-color: #12347b;
+	background-color: #313453;
 -webkit-clip-path: polygon(40% 25%, 40% 85%, 64% 100%, 15% 100%, 0 85%, 0 0);
 clip-path: polygon(40% 25%, 40% 85%, 64% 100%, 15% 100%, 0 85%, 0 0);
 	position: absolute;
@@ -305,7 +306,7 @@ clip-path: polygon(40% 25%, 40% 85%, 64% 100%, 15% 100%, 0 85%, 0 0);
 div.LetterM{
 	width: 150px;
 	height: 150px;
-	background-color: #12347b;
+	background-color: #313453;
 -webkit-clip-path: polygon(21% 0, 40% 15%, 60% 0, 80% 0, 80% 100%, 60% 80%, 40% 100%, 20% 80%, 0 100%, 0 0);
 clip-path: polygon(21% 0, 40% 15%, 60% 0, 80% 0, 80% 100%, 60% 80%, 40% 100%, 20% 80%, 0 100%, 0 0);
 	position: absolute;
@@ -317,7 +318,7 @@ clip-path: polygon(21% 0, 40% 15%, 60% 0, 80% 0, 80% 100%, 60% 80%, 40% 100%, 20
 div.LetterN{
 	width: 150px;
 	height: 150px;
-	background-color: #12347b;
+	background-color: #313453;
 -webkit-clip-path: polygon(0 0, 40% 0, 60% 15%, 80% 0, 80% 100%, 40% 100%, 20% 85%, 0 100%);
 clip-path: polygon(0 0, 40% 0, 60% 15%, 80% 0, 80% 100%, 40% 100%, 20% 85%, 0 100%);
 	position: absolute;
@@ -329,7 +330,7 @@ clip-path: polygon(0 0, 40% 0, 60% 15%, 80% 0, 80% 100%, 40% 100%, 20% 85%, 0 10
 div.LetterO{
 	width: 150px;
 	height: 150px;
-	background-color: #12347b;
+	background-color: #313453;
 -webkit-clip-path: polygon(40% 0, 80% 25%, 80% 75%, 40% 100%, 0% 75%, 0% 25%);
 clip-path: polygon(40% 0, 80% 25%, 80% 75%, 40% 100%, 0% 75%, 0% 25%);
 	position: absolute;
@@ -341,7 +342,7 @@ clip-path: polygon(40% 0, 80% 25%, 80% 75%, 40% 100%, 0% 75%, 0% 25%);
 div.LetterP{
 	width: 150px;
 	height: 150px;
-	background-color: #12347b;
+	background-color: #313453;
 -webkit-clip-path: polygon(50% 0, 75% 35%, 50% 70%, 50% 100%, 0 100%, 0 0);
 clip-path: polygon(50% 0, 75% 35%, 50% 70%, 50% 100%, 0 100%, 0 0);
 	position: absolute;
@@ -353,7 +354,7 @@ clip-path: polygon(50% 0, 75% 35%, 50% 70%, 50% 100%, 0 100%, 0 0);
 div.LetterQ{
 	width: 150px;
 	height: 150px;
-	background-color: #12347b;
+	background-color: #313453;
 -webkit-clip-path: polygon(50% 0%, 85% 20%, 85% 80%, 74% 86%, 75% 100%, 62% 93%, 50% 100%, 15% 80%, 15% 20%);
 clip-path: polygon(50% 0%, 85% 20%, 85% 80%, 74% 86%, 75% 100%, 62% 93%, 50% 100%, 15% 80%, 15% 20%);
 	position: absolute;
@@ -365,7 +366,7 @@ clip-path: polygon(50% 0%, 85% 20%, 85% 80%, 74% 86%, 75% 100%, 62% 93%, 50% 100
 div.LetterR{
 	width: 150px;
 	height: 150px;
-	background-color: #12347b;
+	background-color: #313453;
 -webkit-clip-path: polygon(48% 0, 68% 36%, 45% 67%, 65% 85%, 65% 100%, 50% 100%, 30% 85%, 30% 100%, 0 100%, 0 0);
 clip-path: polygon(48% 0, 68% 36%, 45% 67%, 65% 85%, 65% 100%, 50% 100%, 30% 85%, 30% 100%, 0 100%, 0 0);
 	position: absolute;
@@ -377,7 +378,7 @@ clip-path: polygon(48% 0, 68% 36%, 45% 67%, 65% 85%, 65% 100%, 50% 100%, 30% 85%
 div.LetterS{
 	width: 150px;
 	height: 150px;
-	background-color: #12347b;
+	background-color: #313453;
 -webkit-clip-path: polygon(50% 0, 85% 15%, 85% 35%, 50% 35%, 85% 57%, 85% 85%, 50% 100%, 15% 85%, 15% 55%, 35% 55%, 50% 80%, 50% 55%, 15% 35%, 15% 15%);
 clip-path: polygon(50% 0, 85% 15%, 85% 35%, 50% 35%, 85% 57%, 85% 85%, 50% 100%, 15% 85%, 15% 55%, 35% 55%, 50% 80%, 50% 55%, 15% 35%, 15% 15%);
 	position: absolute;
@@ -389,7 +390,7 @@ clip-path: polygon(50% 0, 85% 15%, 85% 35%, 50% 35%, 85% 57%, 85% 85%, 50% 100%,
 div.LetterT{
 	width: 150px;
 	height: 150px;
-	background-color: #12347b;
+	background-color: #313453;
 -webkit-clip-path: polygon(90% 0, 70% 16%, 53% 100%, 30% 16%, 10% 0);
 clip-path: polygon(90% 0, 70% 16%, 53% 100%, 30% 16%, 10% 0);
 	position: absolute;
@@ -401,7 +402,7 @@ clip-path: polygon(90% 0, 70% 16%, 53% 100%, 30% 16%, 10% 0);
 div.LetterU{
 	width: 150px;
 	height: 150px;
-	background-color: #12347b;
+	background-color: #313453;
 -webkit-clip-path: polygon(50% 15%, 70% 0, 90% 15%, 90% 75%, 68% 100%, 32% 100%, 10% 75%, 10% 15%, 30% 0);
 clip-path: polygon(50% 15%, 70% 0, 90% 15%, 90% 75%, 68% 100%, 32% 100%, 10% 75%, 10% 15%, 30% 0);
 	position: absolute;
@@ -413,7 +414,7 @@ clip-path: polygon(50% 15%, 70% 0, 90% 15%, 90% 75%, 68% 100%, 32% 100%, 10% 75%
 div.LetterV{
 	width: 150px;
 	height: 150px;
-	background-color: #12347b;
+	background-color: #313453;
 -webkit-clip-path: polygon(50% 50%, 70% 0, 90% 15%, 90% 75%, 50% 100%, 10% 75%, 10% 15%, 30% 0);
 clip-path: polygon(50% 50%, 70% 0, 90% 15%, 90% 75%, 50% 100%, 10% 75%, 10% 15%, 30% 0);
 	position: absolute;
@@ -425,7 +426,7 @@ clip-path: polygon(50% 50%, 70% 0, 90% 15%, 90% 75%, 50% 100%, 10% 75%, 10% 15%,
 div.LetterW{
 	width: 150px;
 	height: 150px;
-	background-color: #12347b;
+	background-color: #313453;
 -webkit-clip-path: polygon(21% 0, 40% 15%, 60% 0, 80% 0, 80% 100%, 60% 80%, 40% 100%, 20% 80%, 0 100%, 0 0);
 clip-path: polygon(21% 0, 40% 15%, 60% 0, 80% 0, 80% 100%, 60% 80%, 40% 100%, 20% 80%, 0 100%, 0 0);
 	position: absolute;
@@ -437,7 +438,7 @@ clip-path: polygon(21% 0, 40% 15%, 60% 0, 80% 0, 80% 100%, 60% 80%, 40% 100%, 20
 div.LetterX{
 	width: 150px;
 	height: 150px;
-	background-color: #12347b;
+	background-color: #313453;
 -webkit-clip-path: polygon(50% 15%, 92% 0, 70% 50%, 90% 100%, 50% 85%, 10% 100%, 30% 50%, 10% 0);
 clip-path: polygon(50% 15%, 92% 0, 70% 50%, 90% 100%, 50% 85%, 10% 100%, 30% 50%, 10% 0);
 	position: absolute;
@@ -448,7 +449,7 @@ clip-path: polygon(50% 15%, 92% 0, 70% 50%, 90% 100%, 50% 85%, 10% 100%, 30% 50%
 div.LetterY{
 	width: 150px;
 	height: 150px;
-	background-color: #12347b;
+	background-color: #313453;
 	-webkit-clip-path: polygon(50% 15%, 90% 0, 63% 40%, 50% 100%, 38% 40%, 10% 0);
 clip-path: polygon(50% 15%, 90% 0, 63% 40%, 50% 100%, 38% 40%, 10% 0);
 	position: absolute;
@@ -459,7 +460,7 @@ clip-path: polygon(50% 15%, 90% 0, 63% 40%, 50% 100%, 38% 40%, 10% 0);
 div.LetterZ{
 	width: 150px;
 	height: 150px;
-	background-color: #12347b;
+	background-color: #313453;
 -webkit-clip-path: polygon(80% 0, 80% 70%, 60% 85%, 80% 85%, 70% 100%, 10% 100%, 25% 85%, 10% 85%, 10% 15%, 25% 0);
 clip-path: polygon(80% 0, 80% 70%, 60% 85%, 80% 85%, 70% 100%, 10% 100%, 25% 85%, 10% 85%, 10% 15%, 25% 0);
 	position: absolute;
@@ -867,7 +868,7 @@ clip-path: polygon(90% 0, 65% 16%, 50% 100%, 31% 0);
 div.Number1{
 	width: 150px;
 	height: 150px;
-	background-color: #12347b;
+	background-color: #313453;
 -webkit-clip-path: polygon(50% 0, 65% 15%, 65% 85%, 50% 100%, 36% 85%, 36% 15%, 25% 15%);
 clip-path: polygon(50% 0, 65% 15%, 65% 85%, 50% 100%, 36% 85%, 36% 15%, 25% 15%);
 	position: absolute;
@@ -878,7 +879,7 @@ clip-path: polygon(50% 0, 65% 15%, 65% 85%, 50% 100%, 36% 85%, 36% 15%, 25% 15%)
 div.Number2{
 	width: 150px;
 	height: 150px;
-	background-color: #12347b;
+	background-color: #313453;
 -webkit-clip-path: polygon(10% 0, 80% 0, 80% 70%, 65% 85%, 80% 85%, 70% 100%, 10% 100%, 45% 50%);
 clip-path: polygon(10% 0, 80% 0, 80% 70%, 65% 85%, 80% 85%, 70% 100%, 10% 100%, 45% 50%);
 	position: absolute;
@@ -889,7 +890,7 @@ clip-path: polygon(10% 0, 80% 0, 80% 70%, 65% 85%, 80% 85%, 70% 100%, 10% 100%, 
 div.Number3{
 	width: 150px;
 	height: 150px;
-	background-color: #12347b;
+	background-color: #313453;
 -webkit-clip-path: polygon(85% 0, 85% 35%, 70% 50%, 85% 65%, 85% 100%, 8% 100%, 30% 65%, 15% 50%, 30% 35%, 8% 0);
 clip-path: polygon(85% 0, 85% 35%, 70% 50%, 85% 65%, 85% 100%, 8% 100%, 30% 65%, 15% 50%, 30% 35%, 8% 0);
 	position: absolute;
@@ -900,7 +901,7 @@ clip-path: polygon(85% 0, 85% 35%, 70% 50%, 85% 65%, 85% 100%, 8% 100%, 30% 65%,
 div.Number4{
 	width: 150px;
 	height: 150px;
-	background-color: #12347b;
+	background-color: #313453;
 -webkit-clip-path: polygon(50% 20%, 85% 0, 85% 100%, 15% 51%, 15% 0);
 clip-path: polygon(50% 20%, 85% 0, 85% 100%, 15% 51%, 15% 0);
 	position: absolute;
@@ -911,7 +912,7 @@ clip-path: polygon(50% 20%, 85% 0, 85% 100%, 15% 51%, 15% 0);
 div.Number5{
 	width: 150px;
 	height: 150px;
-	background-color: #12347b;
+	background-color: #313453;
 -webkit-clip-path: polygon(85% 0, 85% 25%, 70% 25%, 85% 61%, 70% 100%, 15% 100%, 34% 61%, 15% 25%, 15% 0);
 clip-path: polygon(85% 0, 85% 25%, 70% 25%, 85% 61%, 70% 100%, 15% 100%, 34% 61%, 15% 25%, 15% 0);
 	position: absolute;
@@ -922,7 +923,7 @@ clip-path: polygon(85% 0, 85% 25%, 70% 25%, 85% 61%, 70% 100%, 15% 100%, 34% 61%
 div.Number6{
 	width: 150px;
 	height: 150px;
-	background-color: #12347b;
+	background-color: #313453;
 -webkit-clip-path: polygon(87% 0, 72% 31%, 91% 52%, 76% 100%, 36% 100%, 15% 52%, 39% 0);
 clip-path: polygon(87% 0, 72% 31%, 91% 52%, 76% 100%, 36% 100%, 15% 52%, 39% 0);
 	position: absolute;
@@ -933,7 +934,7 @@ clip-path: polygon(87% 0, 72% 31%, 91% 52%, 76% 100%, 36% 100%, 15% 52%, 39% 0);
 div.Number7{
 	width: 150px;
 	height: 150px;
-	background-color: #12347b;
+	background-color: #313453;
 -webkit-clip-path: polygon(24% 0, 93% 0, 63% 100%, 52% 19%);
 clip-path: polygon(24% 0, 93% 0, 63% 100%, 52% 19%);
 	position: absolute;
@@ -944,7 +945,7 @@ clip-path: polygon(24% 0, 93% 0, 63% 100%, 52% 19%);
 div.Number8{
 	width: 150px;
 	height: 150px;
-	background-color: #12347b;
+	background-color: #313453;
 -webkit-clip-path: polygon(15% 0, 85% 0, 85% 39%, 70% 50%, 85% 60%, 85% 100%, 15% 100%, 15% 60%, 30% 50%, 15% 44%);
 clip-path: polygon(15% 0, 85% 0, 85% 39%, 70% 50%, 85% 60%, 85% 100%, 15% 100%, 15% 60%, 30% 50%, 15% 44%);
 	position: absolute;
@@ -955,7 +956,7 @@ clip-path: polygon(15% 0, 85% 0, 85% 39%, 70% 50%, 85% 60%, 85% 100%, 15% 100%, 
 div.Number9{
 	width: 150px;
 	height: 150px;
-	background-color: #12347b;
+	background-color: #313453;
 -webkit-clip-path: polygon(15% 0, 85% 0, 85% 100%, 15% 50%);
 clip-path: polygon(15% 0, 85% 0, 85% 100%, 15% 50%);
 	position: absolute;
@@ -966,7 +967,7 @@ clip-path: polygon(15% 0, 85% 0, 85% 100%, 15% 50%);
 div.Number0{
 	width: 150px;
 	height: 150px;
-	background-color: #12347b;
+	background-color: #313453;
 -webkit-clip-path: polygon(50% 0%, 85% 8%, 85% 92%, 50% 100%, 15% 92%, 15% 8%);
 clip-path: polygon(50% 0%, 85% 8%, 85% 92%, 50% 100%, 15% 92%, 15% 8%);
 	position: absolute;
@@ -977,7 +978,7 @@ clip-path: polygon(50% 0%, 85% 8%, 85% 92%, 50% 100%, 15% 92%, 15% 8%);
 div.PunctQues1{
 	width: 150px;
 	height: 150px;
-	background-color: #12347b;
+	background-color: #313453;
 -webkit-clip-path: polygon(73% 0, 94% 28%, 66% 89%, 63% 30%, 31% 20%);
 clip-path: polygon(73% 0, 94% 28%, 66% 89%, 63% 30%, 31% 20%);
 	position: absolute;
@@ -988,7 +989,7 @@ clip-path: polygon(73% 0, 94% 28%, 66% 89%, 63% 30%, 31% 20%);
 div.PunctQues2{
 	width: 150px;
 	height: 150px;
-	background-color: #12347b;
+	background-color: #313453;
 -webkit-clip-path: polygon(7% 85%, 23% 85%, 15% 100%, 0% 100%);
 clip-path: polygon(7% 85%, 23% 85%, 15% 100%, 0% 100%);
 	position: absolute;
@@ -999,7 +1000,7 @@ clip-path: polygon(7% 85%, 23% 85%, 15% 100%, 0% 100%);
 div.PunctExcl1{
 	width: 150px;
 	height: 150px;
-	background-color: #12347b;
+	background-color: #313453;
 -webkit-clip-path: polygon(50% 3%, 65% 10%, 57% 82%, 44% 82%, 35% 11%);
 clip-path: polygon(50% 3%, 65% 10%, 57% 82%, 44% 82%, 35% 11%);
 	position: absolute;
@@ -1010,7 +1011,7 @@ clip-path: polygon(50% 3%, 65% 10%, 57% 82%, 44% 82%, 35% 11%);
 div.PunctExcl2{
 	width: 150px;
 	height: 150px;
-	background-color: #12347b;
+	background-color: #313453;
 -webkit-clip-path: polygon(7% 85%, 23% 85%, 15% 100%, 0% 100%);
 clip-path: polygon(7% 85%, 23% 85%, 15% 100%, 0% 100%);
 	position: absolute;
@@ -1205,7 +1206,7 @@ clip-path: polygon(7% 85%, 23% 85%, 15% 100%, 0% 100%);
 div.LetterTSentence{
 	width: 150px;
 	height: 150px;
-	background-color: #12347b;
+	background-color: #313453;
 -webkit-clip-path: polygon(90% 0, 70% 16%, 53% 100%, 30% 16%, 10% 0);
 clip-path: polygon(90% 0, 70% 16%, 53% 100%, 30% 16%, 10% 0);
 	position: absolute;
@@ -1229,7 +1230,7 @@ clip-path: polygon(90% 0, 70% 16%, 53% 100%, 30% 16%, 10% 0);
 div.LetterASentence{
 	width: 130px;
 	height: 150px;
-	background-color: #12347b;
+	background-color: #313453;
 	-webkit-clip-path: polygon(50% 0%, 100% 30%, 100% 100%, 50% 70%, 0 100%, 0 30%);
 clip-path: polygon(50% 0%, 100% 30%, 100% 100%, 50% 70%, 0 100%, 0 30%);
 	position: absolute;
@@ -1253,7 +1254,7 @@ clip-path: polygon(50% 0%, 100% 30%, 100% 100%, 50% 70%, 0 100%, 0 30%);
 div.LetterKSentence{
 	width: 150px;
 	height: 150px;
-	background-color: #12347b;
+	background-color: #313453;
 -webkit-clip-path: polygon(50% 15%, 90% 0, 70% 50%, 90% 100%, 50% 85%, 15% 100%, 15% 0);
 clip-path: polygon(50% 15%, 90% 0, 70% 50%, 90% 100%, 50% 85%, 15% 100%, 15% 0);
 	position: absolute;
@@ -1277,7 +1278,7 @@ clip-path: polygon(50% 15%, 90% 0, 70% 50%, 90% 100%, 50% 85%, 15% 100%, 15% 0);
 div.LetterESentence{
 	width: 150px;
 	height: 150px;
-	background-color: #12347b;
+	background-color: #313453;
 	-webkit-clip-path: polygon(100% 0, 80% 30%, 100% 50%, 80% 70%, 100% 100%, 15% 100%, 15% 0);
 clip-path: polygon(100% 0, 80% 30%, 100% 50%, 80% 70%, 100% 100%, 15% 100%, 15% 0);
 	position: absolute;
@@ -1301,7 +1302,7 @@ clip-path: polygon(100% 0, 80% 30%, 100% 50%, 80% 70%, 100% 100%, 15% 100%, 15% 
 div.LetterASentence2{
 	width: 130px;
 	height: 150px;
-	background-color: #12347b;
+	background-color: #313453;
 	-webkit-clip-path: polygon(50% 0%, 100% 30%, 100% 100%, 50% 70%, 0 100%, 0 30%);
 clip-path: polygon(50% 0%, 100% 30%, 100% 100%, 50% 70%, 0 100%, 0 30%);
 	position: absolute;
@@ -1325,7 +1326,7 @@ clip-path: polygon(50% 0%, 100% 30%, 100% 100%, 50% 70%, 0 100%, 0 30%);
 div.LetterBSentence{
 	width: 130px;
 	height: 150px;
-	background-color: #12347b;
+	background-color: #313453;
 	-webkit-clip-path: polygon(80% 0, 100% 21%, 80% 40%, 100% 70%, 81% 100%, 0 100%, 0 0);
 clip-path: polygon(80% 0, 100% 21%, 80% 40%, 100% 70%, 81% 100%, 0 100%, 0 0);
 	position: absolute;
@@ -1349,7 +1350,7 @@ clip-path: polygon(80% 0, 100% 21%, 80% 40%, 100% 70%, 81% 100%, 0 100%, 0 0);
 div.LetterISentence{
 	width: 150px;
 	height: 150px;
-	background-color: #12347b;
+	background-color: #313453;
 	-webkit-clip-path: polygon(50% 0, 70% 15%, 70% 85%, 50% 100%, 30% 85%, 30% 15%);
 clip-path: polygon(50% 0, 70% 15%, 70% 85%, 50% 100%, 30% 85%, 30% 15%);
 	position: absolute;
@@ -1374,7 +1375,7 @@ clip-path: polygon(50% 0, 70% 15%, 70% 85%, 50% 100%, 30% 85%, 30% 15%);
 div.LetterTSentence2{
 	width: 150px;
 	height: 150px;
-	background-color: #12347b;
+	background-color: #313453;
 -webkit-clip-path: polygon(90% 0, 70% 16%, 53% 100%, 30% 16%, 10% 0);
 clip-path: polygon(90% 0, 70% 16%, 53% 100%, 30% 16%, 10% 0);
 	position: absolute;
@@ -1398,7 +1399,7 @@ clip-path: polygon(90% 0, 70% 16%, 53% 100%, 30% 16%, 10% 0);
 div.LetterESentence2{
 	width: 150px;
 	height: 150px;
-	background-color: #12347b;
+	background-color: #313453;
 	-webkit-clip-path: polygon(100% 0, 80% 30%, 100% 50%, 80% 70%, 100% 100%, 15% 100%, 15% 0);
 clip-path: polygon(100% 0, 80% 30%, 100% 50%, 80% 70%, 100% 100%, 15% 100%, 15% 0);
 	position: absolute;
@@ -1422,7 +1423,7 @@ clip-path: polygon(100% 0, 80% 30%, 100% 50%, 80% 70%, 100% 100%, 15% 100%, 15% 
 div.Number8blank{
 	width: 150px;
 	height: 150px;
-	background-color: #06162f;
+	background-color: #ffd392;
 -webkit-clip-path: polygon(15% 0, 85% 0, 85% 39%, 70% 50%, 85% 60%, 85% 100%, 15% 100%, 15% 60%, 30% 50%, 15% 44%);
 clip-path: polygon(15% 0, 85% 0, 85% 39%, 70% 50%, 85% 60%, 85% 100%, 15% 100%, 15% 60%, 30% 50%, 15% 44%);
 	position: absolute;
