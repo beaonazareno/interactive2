@@ -1,0 +1,201 @@
+body {
+	background: #35477d;
+}
+
+.Spinning1.active {
+  width: 1004px;
+  height: 555px;
+  background: linear-gradient(311deg, #ff5d12, #ff712f);
+background-size: 400% 400%;
+-webkit-clip-path: polygon(31% 49%, 89% 15%, 71% 55%, 10% 88%);
+clip-path: polygon(31% 49%, 89% 15%, 71% 55%, 10% 88%);
+  position: absolute;
+  margin-left: 200px;
+  margin-top: 10px;
+  animation-name: spin;
+  animation-duration: 4000ms;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear; 
+ 
+}
+
+@keyframes spin {
+    from {
+        transform:rotate(0deg);
+        background-position:0% 50%
+    }
+    50% {
+      background-position:100% 50%
+    }
+    to {
+        transform:rotate(360deg);
+        background-position:0% 50%
+    }
+}
+
+.Spinning2.active {
+  width: 1004px;
+  height: 555px;
+background: linear-gradient(311deg, #0bb3d6, #68d8ef);
+background-size: 400% 400%;
+-webkit-clip-path: polygon(50% 35%, 85% 50%, 50% 65%, 15% 50%);
+clip-path: polygon(50% 35%, 85% 50%, 50% 65%, 15% 50%);
+  position: absolute;
+  margin-left: 200px;
+  margin-top: 10px;
+  opacity: 0.8;
+  animation-name: spin;
+  animation-duration: 2500ms;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear; 
+ 
+}
+
+@keyframes spin {
+    from {
+        transform:rotate(0deg);
+        background-position:0% 50%
+    }
+    50% {
+      background-position:100% 50%
+    }
+    to {
+        transform:rotate(360deg);
+        background-position:0% 50%
+    }
+}
+
+.Spinning3.active {
+  width: 1004px;
+  height: 555px;
+  background: linear-gradient(311deg, #ae20ff, #7215ea);
+background-size: 400% 400%;
+-webkit-clip-path: polygon(49% 27%, 66% 0, 50% 78%, 30% 100%);
+clip-path: polygon(49% 27%, 66% 0, 50% 78%, 30% 100%);
+  position: absolute;
+  margin-left: 200px;
+  margin-top: 10px;
+  opacity: 0.9;
+  animation-name: spin;
+  animation-duration: 1500ms;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear; 
+ 
+}
+
+@keyframes spin {
+    from {
+        transform:rotate(0deg);
+        background-position:0% 50%
+    }
+    50% {
+      background-position:100% 50%
+    }
+    to {
+        transform:rotate(360deg);
+        background-position:0% 50%
+    }
+}
+
+
+
+.Spinning4.active {
+ width: 1004px;
+  height: 555px;
+ background: linear-gradient(311deg, #f92346, #f92372);
+background-size: 400% 400%;
+-webkit-clip-path: polygon(50% 0%, 65% 50%, 50% 100%, 35% 50%);
+clip-path: polygon(50% 0%, 65% 50%, 50% 100%, 35% 50%);
+  position: absolute;
+  margin-left: 200px;
+  margin-top: 10px;
+  opacity: 0.85;
+  animation-name: spin;
+  animation-duration: 3000ms;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear; 
+ 
+}
+
+@keyframes spin {
+    from {
+        transform:rotate(0deg);
+        background-position:0% 50%
+    }
+    50% {
+      background-position:100% 50%
+    }
+    to {
+        transform:rotate(360deg);
+        background-position:0% 50%
+    }
+}
+
+
+div.stage{
+	width: 1423px;
+	height: 560px;
+	margin: 100px auto;
+	background: #35477d;
+	position: relative;
+}
+
+div.shapes{
+	width: 1423px;
+	height: 560px;
+	margin: 100px auto;
+	background: #35477d;
+	position: relative;
+}
+
+div.Shape1{
+  width: 1004px;
+  height: 555px;
+  background-color: #35477d;
+-webkit-clip-path: polygon(31% 49%, 89% 15%, 71% 55%, 10% 88%);
+clip-path: polygon(31% 49%, 89% 15%, 71% 55%, 10% 88%);
+  position: absolute;
+  margin-left: 200px;
+  margin-top: 10px;
+  display: none;
+}
+
+div.Shape2{
+	width: 1004px;
+	height: 555px;
+	background-color: #68d8ef;
+-webkit-clip-path: polygon(50% 35%, 85% 50%, 50% 65%, 15% 50%);
+clip-path: polygon(50% 35%, 85% 50%, 50% 65%, 15% 50%);
+	position: absolute;
+	margin-left: 200px;
+	margin-top: 10px;
+  opacity: 0.8;
+  display: none;
+}
+
+div.Shape3{
+  width: 1004px;
+  height: 555px;
+  background-color: #6f39b5;
+-webkit-clip-path: polygon(49% 27%, 66% 0, 50% 78%, 30% 100%);
+clip-path: polygon(49% 27%, 66% 0, 50% 78%, 30% 100%);
+  position: absolute;
+  margin-left: 200px;
+  margin-top: 10px;
+  opacity: 0.9;
+  display: none;
+}
+
+div.Shape4{
+  width: 1004px;
+  height: 555px;
+  background-color: #f92372;
+-webkit-clip-path: polygon(50% 0%, 65% 50%, 50% 100%, 35% 50%);
+clip-path: polygon(50% 0%, 65% 50%, 50% 100%, 35% 50%);
+  position: absolute;
+  margin-left: 200px;
+  margin-top: 10px;
+  opacity: 0.85;
+  display: none;
+}
+
