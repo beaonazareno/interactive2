@@ -36,7 +36,7 @@ clip-path: polygon(31% 49%, 89% 15%, 71% 55%, 10% 88%);
 .Spinning2.active {
   width: 1004px;
   height: 555px;
-background: linear-gradient(311deg, #0bb3d6, #68d8ef);
+background: linear-gradient(311deg, #3a97f7, #68d8ef);
 background-size: 400% 400%;
 -webkit-clip-path: polygon(50% 35%, 85% 50%, 50% 65%, 15% 50%);
 clip-path: polygon(50% 35%, 85% 50%, 50% 65%, 15% 50%);
@@ -68,7 +68,7 @@ clip-path: polygon(50% 35%, 85% 50%, 50% 65%, 15% 50%);
 .Spinning3.active {
   width: 1004px;
   height: 555px;
-  background: linear-gradient(311deg, #ae20ff, #7215ea);
+  background: linear-gradient(311deg, #b015ea, #7215ea);
 background-size: 400% 400%;
 -webkit-clip-path: polygon(49% 27%, 66% 0, 50% 78%, 30% 100%);
 clip-path: polygon(49% 27%, 66% 0, 50% 78%, 30% 100%);
@@ -102,7 +102,7 @@ clip-path: polygon(49% 27%, 66% 0, 50% 78%, 30% 100%);
 .Spinning4.active {
  width: 1004px;
   height: 555px;
- background: linear-gradient(311deg, #f92346, #f92372);
+ background: linear-gradient(311deg, #fd08b5, #f92372);
 background-size: 400% 400%;
 -webkit-clip-path: polygon(50% 0%, 65% 50%, 50% 100%, 35% 50%);
 clip-path: polygon(50% 0%, 65% 50%, 50% 100%, 35% 50%);
