@@ -1,5 +1,6 @@
 body {
 	background: #35477d;
+  cursor: pointer;
 }
 
 .Spinning1.active {
