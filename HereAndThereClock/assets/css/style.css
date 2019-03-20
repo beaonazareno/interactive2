@@ -1,0 +1,52 @@
+
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface|Playfair+Display');
+
+body {
+	background: #ede1d5;	
+	color: #a2534d;
+	font-family: 'Abril Fatface', cursive;
+font-size: 50px;
+	display: flex;
+	align-items: center;
+  justify-content: center;
+
+  min-height: 100vh;
+}
+/* 
+.classTime {
+  width: 700px;
+}
+ */
+.clock {
+	border: 1000px;
+	width: 500px;
+	height: 500px;
+
+	display: grid;
+	align-items: center;
+  justify-content: center;
+  position:relative;
+}
+
+.clock2 {
+	border: 100px;
+	width: 500px;
+	height: 500px;
+
+	display: grid;
+	align-items: center;
+  justify-content: center;
+  position:relative;
+  
+}
+#amp {
+  margin-left:10vw;
+  margin-right:10vw;
+  color: #a2534d;
+	font-family: 'Abril Fatface', cursive;
+  font-size: 100px;
+  
+}
+
+
+
