@@ -1,0 +1,59 @@
+
+body {
+	background: #ede1d5;	
+}
+
+#shapes_homepage{
+	position: relative;
+}
+
+<link rel="stylesheet" href="https://use.typekit.net/xzv6xxw.css">
+
+
+.shapes{
+	width: 15%;
+	position: absolute;
+}
+
+#shape1 {
+	left: 50px;
+	top: 400px;
+	animation: wind 10000ms ease-in-out alternate infinite;
+    animation-delay: -3000ms;
+}
+
+#shape2 {
+	left: 50px;
+	top: 200px;
+}
+
+@keyframes wind {
+    from {
+        transform: rotateY(-45deg)
+    }
+    to {
+        transform: rotateY(45deg)
+    }
+}
+
+#header {
+	display: flex;
+}
+
+#header div{
+	flex: 1;
+}
+
+#header:hover{
+	
+}
+
+#bio {
+	display: none;
+}
+
+#column1 {
+	font-family: montserrat, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+}

@@ -1,0 +1,336 @@
+
+body {
+	background: #ffffff;	
+}
+
+#shapes_homepage{
+	position: relative;
+	z-index: 1;
+}
+
+.shapes{
+	position: absolute;
+}
+
+#shape1.small{
+	width: 7%;
+	left: 16vw;
+	top: 6vw;
+}
+
+/*100vw 1440px*/
+
+#shape1 {
+	left: 19.4vw;
+	top: 250px;
+	animation: wind 10000ms ease-in-out alternate infinite;
+    animation-delay: -3000ms;
+    width: 13%;
+}
+
+#shape2.small{
+	width: 4.8%;
+	left: 17vw;
+	top: 12vw;
+}
+
+#shape2 {
+	left: 600px;
+	top: 320px;
+	animation: wind 10000ms ease-in-out alternate infinite;
+    animation-delay: -5000ms;
+    width: 7%;
+}
+
+#shape3.small{
+	width: 9%;
+	left: 14.5vw;
+	top: 19vw;
+}
+
+#shape3 {
+	left: 750px;
+	top: 500px;
+	animation: wind 10000ms ease-in-out alternate infinite;
+    animation-delay: -7000ms;
+    width: 14%;
+}
+
+#shape4.small{
+	width: 6.5%;
+	left: 17vw;
+	top: 24.5vw;
+}
+
+#shape4 {
+	left: 600px;
+	top: 80px;
+	animation: wind 10000ms ease-in-out alternate infinite;
+    animation-delay: -6000ms;
+    width: 15%;
+}
+
+#shape5.small{
+	width: 6%;
+	left: 17vw;
+	top: 31vw;
+}
+
+#shape5 {
+	left: 910px;
+	top: 300px;
+	animation: wind 10000ms ease-in-out alternate infinite;
+    animation-delay: -2500ms;
+    width: 10%;
+}
+
+#shape6.small{
+	width: 8%;
+	left: 16vw;
+	top: 37vw;
+}
+
+#shape6 {
+	left: 400px;
+	top: 460px;
+	animation: wind 10000ms ease-in-out alternate infinite;
+    animation-delay: -1500ms;
+    width: 13%;
+}
+
+@keyframes wind {
+    from {
+        transform: rotateY(-45deg)
+    }
+    to {
+        transform: rotateY(45deg)
+    }
+}
+
+#header {
+	display: flex;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+#header div{
+	flex: 1;
+}
+
+#header:hover{
+	
+}
+
+#bio {
+	display: none;
+	width: 520px;
+	font-family: montserrat, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	text-align: left;
+	line-height: 1.6;
+	margin-left: 10px;
+}
+
+#column1{
+	font-family: montserrat, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 2.42vw;
+	text-align: left;
+}
+
+#column2{
+	font-family: montserrat, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 2.42vw;
+	text-align: center;
+}
+
+#column3{
+	font-family: montserrat, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 2.42vw;
+	text-align: right;
+}
+
+.artwork{
+	position: absolute;
+}
+
+#artwork_About{
+	position: relative;
+}
+
+#About{
+	left: 600px;
+	top: 400px;
+    width: 80%;
+}
+
+#artwork_About .text {
+	position: absolute;
+	width:400px;
+	font-size: 1.2vw;
+	margin-left: 36vw;
+	text-align: center;
+}
+
+#artwork_Aquarium{
+	position: relative;
+	text-align: center;
+	margin: 8vw auto;
+	width:80%;
+}
+
+#Aquarium{
+	left: 600px;
+	top: 400px;
+    width: 100%;
+}
+
+#artwork_Aquarium .text {
+	position: absolute;
+	right:0vw;
+	bottom:0vw;
+	width:200px;
+	font-size: 1.2vw;
+}
+
+#artwork_Constellation{
+	position: relative;
+	text-align: center;
+	margin: 8vw auto;
+	width:80%;
+}
+
+#Constellation{
+	left: 600px;
+	top: 400px;
+    width: 80%;
+}
+
+#artwork_Constellation .text {
+	position: absolute;
+	right:0vw;
+	bottom:0vw;
+	width:200px;
+	font-size: 1.2vw;
+}
+
+#artwork_DoubleGong{
+	position: relative;
+	text-align: center;
+	margin: 8vw auto;
+	width:80%;
+}
+
+#DoubleGong{
+	left: 600px;
+	top: 400px;
+    width: 100%;
+}
+
+#artwork_DoubleGong .text {
+	position: absolute;
+	right:0vw;
+	bottom:0vw;
+	width:200px;
+	font-size: 1.2vw;
+}
+
+#artwork_Fishy{
+	position: relative;
+	text-align: center;
+	margin: 8vw auto;
+	width:48%;
+}
+
+#Fishy{
+	left: 600px;
+	top: 400px;
+    width: 80%;
+}
+
+#artwork_Fishytext {
+	position: absolute;
+	left: 35.4vw;
+	top: 37vw;
+	width:200px;
+	font-size: 1.2vw;
+	margin-left: 40vw;
+	width: 40vw;
+    font-family: montserrat, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    text-align: left;
+    line-height: 1.6;
+}
+
+#artwork_Untitled1949{
+	position: relative;
+	text-align: center;
+	margin: 8vw auto;
+	width:60%;
+}
+
+#Untitled1949{
+	left: 600px;
+	top: 400px;
+    width: 80%;
+}
+
+#artwork_Untitled1969 .text {
+	position: absolute;
+	right:0vw;
+	bottom:0vw;
+	width:200px;
+	font-size: 1.2vw;
+}
+
+
+
+@media only screen and (max-width: 900px) {
+  #artwork_About .text {
+	position: absolute;
+	width:200px;
+	top: -60px;
+	text-align: center;
+}
+
+  #artwork_DoubleGong .text {
+	position: unset;
+	width:unset;
+	text-align: center;
+}
+	
+	#artwork_Aquarium .text {
+	position: unset;
+	width:unset;
+	text-align: center;
+}
+
+	#artwork_Constellation .text {
+	position: unset;
+	width:unset;
+	text-align: center;
+}
+
+	#artwork_Fishytext {
+	position: unset;
+	width:unset;
+	text-align: center;
+}
+
+	#artwork_Untitled1949 .text {
+	position: unset;
+	width:unset;
+	text-align: center;
+}
+}
+
+
+
+
